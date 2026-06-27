@@ -1,0 +1,6242 @@
+[
+  {
+    "TaskID":"T0001",
+    "ProjectID":"P001",
+    "EmployeeID":"E024",
+    "TaskName":"API Development - Phase 2",
+    "PlannedHours":122,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0002",
+    "ProjectID":"P001",
+    "EmployeeID":"E033",
+    "TaskName":"KPI Definition - Optimization",
+    "PlannedHours":71,
+    "ActualHours":43,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0003",
+    "ProjectID":"P001",
+    "EmployeeID":"E112",
+    "TaskName":"User Acceptance Testing - Data Prep",
+    "PlannedHours":184,
+    "ActualHours":211,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0004",
+    "ProjectID":"P001",
+    "EmployeeID":"E114",
+    "TaskName":"Requirement Gathering - Stabilization",
+    "PlannedHours":198,
+    "ActualHours":144,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0005",
+    "ProjectID":"P001",
+    "EmployeeID":"E033",
+    "TaskName":"Security Audit - Deployment",
+    "PlannedHours":24,
+    "ActualHours":9,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0006",
+    "ProjectID":"P002",
+    "EmployeeID":"E082",
+    "TaskName":"User Acceptance Testing - Enhancement",
+    "PlannedHours":200,
+    "ActualHours":223,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0007",
+    "ProjectID":"P002",
+    "EmployeeID":"E095",
+    "TaskName":"KPI Definition - Initial Setup",
+    "PlannedHours":38,
+    "ActualHours":30,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0008",
+    "ProjectID":"P002",
+    "EmployeeID":"E078",
+    "TaskName":"Data Migration - Module C",
+    "PlannedHours":68,
+    "ActualHours":64,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0009",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Validation",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0010",
+    "ProjectID":"P003",
+    "EmployeeID":"E078",
+    "TaskName":"Mobile App Integration - Module A",
+    "PlannedHours":47,
+    "ActualHours":43,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0011",
+    "ProjectID":"P003",
+    "EmployeeID":"E021",
+    "TaskName":"Security Audit - Configuration",
+    "PlannedHours":142,
+    "ActualHours":182,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0012",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"Requirement Gathering - Initial Setup",
+    "PlannedHours":122,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0013",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"CI\/CD Setup - Module B",
+    "PlannedHours":137,
+    "ActualHours":157,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0014",
+    "ProjectID":"P004",
+    "EmployeeID":"E055",
+    "TaskName":"KPI Definition - Initial Setup",
+    "PlannedHours":30,
+    "ActualHours":34,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0015",
+    "ProjectID":"P004",
+    "EmployeeID":"E067",
+    "TaskName":"Mobile App Integration - Integration",
+    "PlannedHours":184,
+    "ActualHours":225,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0016",
+    "ProjectID":"P004",
+    "EmployeeID":"E107",
+    "TaskName":"API Development - Stabilization",
+    "PlannedHours":177,
+    "ActualHours":202,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0017",
+    "ProjectID":"P004",
+    "EmployeeID":"E006",
+    "TaskName":"Compliance Documentation - Validation",
+    "PlannedHours":92,
+    "ActualHours":84,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0018",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"Unit Testing - Data Prep",
+    "PlannedHours":133,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0019",
+    "ProjectID":"P005",
+    "EmployeeID":"E040",
+    "TaskName":"Mobile App Integration - Module A",
+    "PlannedHours":162,
+    "ActualHours":71,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0020",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"User Acceptance Testing - Data Prep",
+    "PlannedHours":101,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0021",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"API Development - Deployment",
+    "PlannedHours":132,
+    "ActualHours":76,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0022",
+    "ProjectID":"P006",
+    "EmployeeID":"E090",
+    "TaskName":"Compliance Documentation - Validation",
+    "PlannedHours":38,
+    "ActualHours":8,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0023",
+    "ProjectID":"P006",
+    "EmployeeID":"E025",
+    "TaskName":"Marketing Launch Prep - Upgrade",
+    "PlannedHours":39,
+    "ActualHours":23,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0024",
+    "ProjectID":"P006",
+    "EmployeeID":"E024",
+    "TaskName":"User Acceptance Testing - Refinement",
+    "PlannedHours":195,
+    "ActualHours":204,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0025",
+    "ProjectID":"P006",
+    "EmployeeID":"E025",
+    "TaskName":"CI\/CD Setup - Data Prep",
+    "PlannedHours":42,
+    "ActualHours":29,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0026",
+    "ProjectID":"P007",
+    "EmployeeID":"E032",
+    "TaskName":"CI\/CD Setup - Phase 2",
+    "PlannedHours":187,
+    "ActualHours":193,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0027",
+    "ProjectID":"P007",
+    "EmployeeID":"E037",
+    "TaskName":"Mobile App Integration - Configuration",
+    "PlannedHours":71,
+    "ActualHours":70,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0028",
+    "ProjectID":"P007",
+    "EmployeeID":"E037",
+    "TaskName":"Requirement Gathering - Validation",
+    "PlannedHours":40,
+    "ActualHours":40,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0029",
+    "ProjectID":"P007",
+    "EmployeeID":"E032",
+    "TaskName":"Design Prototype - Review",
+    "PlannedHours":192,
+    "ActualHours":147,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0030",
+    "ProjectID":"P008",
+    "EmployeeID":"E050",
+    "TaskName":"CI\/CD Setup - Optimization",
+    "PlannedHours":150,
+    "ActualHours":181,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0031",
+    "ProjectID":"P008",
+    "EmployeeID":"E111",
+    "TaskName":"KPI Definition - Refinement",
+    "PlannedHours":50,
+    "ActualHours":41,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0032",
+    "ProjectID":"P008",
+    "EmployeeID":"E057",
+    "TaskName":"Compliance Documentation - Upgrade",
+    "PlannedHours":146,
+    "ActualHours":144,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0033",
+    "ProjectID":"P008",
+    "EmployeeID":"E081",
+    "TaskName":"Mobile App Integration - Integration",
+    "PlannedHours":31,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0034",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"KPI Definition - Phase 2",
+    "PlannedHours":143,
+    "ActualHours":100,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0035",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"API Development - Initial Setup",
+    "PlannedHours":55,
+    "ActualHours":44,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0036",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Mobile App Integration - Phase 1",
+    "PlannedHours":109,
+    "ActualHours":49,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0037",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Optimization",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0038",
+    "ProjectID":"P010",
+    "EmployeeID":"E066",
+    "TaskName":"Data Migration - Deployment",
+    "PlannedHours":136,
+    "ActualHours":148,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0039",
+    "ProjectID":"P010",
+    "EmployeeID":"E016",
+    "TaskName":"Security Audit - Refinement",
+    "PlannedHours":106,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0040",
+    "ProjectID":"P010",
+    "EmployeeID":"E007",
+    "TaskName":"KPI Definition - Review",
+    "PlannedHours":96,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0041",
+    "ProjectID":"P010",
+    "EmployeeID":"E066",
+    "TaskName":"Mobile App Integration - Deployment",
+    "PlannedHours":70,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0042",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"KPI Definition - Module C",
+    "PlannedHours":197,
+    "ActualHours":129,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0043",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"User Acceptance Testing - Enhancement",
+    "PlannedHours":100,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0044",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"CI\/CD Setup - Review",
+    "PlannedHours":199,
+    "ActualHours":232,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0045",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"Marketing Launch Prep - Initial Setup",
+    "PlannedHours":117,
+    "ActualHours":90,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0046",
+    "ProjectID":"P012",
+    "EmployeeID":"E062",
+    "TaskName":"Design Prototype - Compliance",
+    "PlannedHours":113,
+    "ActualHours":79,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0047",
+    "ProjectID":"P012",
+    "EmployeeID":"E052",
+    "TaskName":"Marketing Launch Prep - Validation",
+    "PlannedHours":105,
+    "ActualHours":136,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0048",
+    "ProjectID":"P012",
+    "EmployeeID":"E086",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":32,
+    "ActualHours":15,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0049",
+    "ProjectID":"P012",
+    "EmployeeID":"E071",
+    "TaskName":"User Acceptance Testing - Integration",
+    "PlannedHours":51,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0050",
+    "ProjectID":"P012",
+    "EmployeeID":"E051",
+    "TaskName":"API Development - Deployment",
+    "PlannedHours":196,
+    "ActualHours":73,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0051",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Phase 1",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0052",
+    "ProjectID":"P013",
+    "EmployeeID":"E058",
+    "TaskName":"User Acceptance Testing - Testing",
+    "PlannedHours":34,
+    "ActualHours":23,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0053",
+    "ProjectID":"P013",
+    "EmployeeID":"E002",
+    "TaskName":"API Development - Data Prep",
+    "PlannedHours":95,
+    "ActualHours":78,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0054",
+    "ProjectID":"P013",
+    "EmployeeID":"E097",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":69,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0055",
+    "ProjectID":"P014",
+    "EmployeeID":"E055",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":87,
+    "ActualHours":103,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0056",
+    "ProjectID":"P014",
+    "EmployeeID":"E022",
+    "TaskName":"Security Audit - Enhancement",
+    "PlannedHours":160,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0057",
+    "ProjectID":"P014",
+    "EmployeeID":"E030",
+    "TaskName":"Marketing Launch Prep - Compliance",
+    "PlannedHours":196,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0058",
+    "ProjectID":"P014",
+    "EmployeeID":"E087",
+    "TaskName":"Requirement Gathering - Optimization",
+    "PlannedHours":75,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0059",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"API Development - Compliance",
+    "PlannedHours":190,
+    "ActualHours":132,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0060",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"User Acceptance Testing - Data Prep",
+    "PlannedHours":86,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0061",
+    "ProjectID":"P015",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Phase 2",
+    "PlannedHours":192,
+    "ActualHours":109,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0062",
+    "ProjectID":"P015",
+    "EmployeeID":"E057",
+    "TaskName":"Data Migration - Module C",
+    "PlannedHours":46,
+    "ActualHours":52,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0063",
+    "ProjectID":"P016",
+    "EmployeeID":"E076",
+    "TaskName":"CI\/CD Setup - Module A",
+    "PlannedHours":107,
+    "ActualHours":152,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0064",
+    "ProjectID":"P016",
+    "EmployeeID":"E030",
+    "TaskName":"Design Prototype - Deployment",
+    "PlannedHours":161,
+    "ActualHours":205,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0065",
+    "ProjectID":"P016",
+    "EmployeeID":"E076",
+    "TaskName":"Requirement Gathering - Configuration",
+    "PlannedHours":139,
+    "ActualHours":83,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0066",
+    "ProjectID":"P016",
+    "EmployeeID":"E076",
+    "TaskName":"Data Migration - Phase 2",
+    "PlannedHours":147,
+    "ActualHours":134,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0067",
+    "ProjectID":"P017",
+    "EmployeeID":"E043",
+    "TaskName":"Requirement Gathering - Compliance",
+    "PlannedHours":150,
+    "ActualHours":117,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0068",
+    "ProjectID":"P017",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Enhancement",
+    "PlannedHours":100,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0069",
+    "ProjectID":"P017",
+    "EmployeeID":"E092",
+    "TaskName":"CI\/CD Setup - Upgrade",
+    "PlannedHours":130,
+    "ActualHours":74,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0070",
+    "ProjectID":"P017",
+    "EmployeeID":"E090",
+    "TaskName":"User Acceptance Testing - Review",
+    "PlannedHours":32,
+    "ActualHours":38,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0071",
+    "ProjectID":"P018",
+    "EmployeeID":"E076",
+    "TaskName":"Design Prototype - Data Prep",
+    "PlannedHours":99,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0072",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"API Development - Module A",
+    "PlannedHours":145,
+    "ActualHours":49,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0073",
+    "ProjectID":"P018",
+    "EmployeeID":"E076",
+    "TaskName":"CI\/CD Setup - Review",
+    "PlannedHours":187,
+    "ActualHours":80,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0074",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"KPI Definition - Phase 1",
+    "PlannedHours":83,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0075",
+    "ProjectID":"P019",
+    "EmployeeID":"E113",
+    "TaskName":"Security Audit - Module B",
+    "PlannedHours":182,
+    "ActualHours":153,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0076",
+    "ProjectID":"P019",
+    "EmployeeID":"E056",
+    "TaskName":"KPI Definition - Refinement",
+    "PlannedHours":114,
+    "ActualHours":93,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0077",
+    "ProjectID":"P019",
+    "EmployeeID":"E104",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":151,
+    "ActualHours":121,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0078",
+    "ProjectID":"P019",
+    "EmployeeID":"E104",
+    "TaskName":"Unit Testing - Finalization",
+    "PlannedHours":131,
+    "ActualHours":121,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0079",
+    "ProjectID":"P020",
+    "EmployeeID":"E030",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":95,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0080",
+    "ProjectID":"P020",
+    "EmployeeID":"E015",
+    "TaskName":"CI\/CD Setup - Finalization",
+    "PlannedHours":104,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0081",
+    "ProjectID":"P020",
+    "EmployeeID":"E107",
+    "TaskName":"KPI Definition - Module B",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0082",
+    "ProjectID":"P020",
+    "EmployeeID":"E016",
+    "TaskName":"Data Migration - Review",
+    "PlannedHours":176,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0083",
+    "ProjectID":"P021",
+    "EmployeeID":"E036",
+    "TaskName":"Requirement Gathering - Integration",
+    "PlannedHours":166,
+    "ActualHours":108,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0084",
+    "ProjectID":"P021",
+    "EmployeeID":"E036",
+    "TaskName":"CI\/CD Setup - Module A",
+    "PlannedHours":94,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0085",
+    "ProjectID":"P021",
+    "EmployeeID":"E094",
+    "TaskName":"Design Prototype - Validation",
+    "PlannedHours":119,
+    "ActualHours":129,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0086",
+    "ProjectID":"P021",
+    "EmployeeID":"E094",
+    "TaskName":"Marketing Launch Prep - Finalization",
+    "PlannedHours":35,
+    "ActualHours":13,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0087",
+    "ProjectID":"P022",
+    "EmployeeID":"E077",
+    "TaskName":"Mobile App Integration - Phase 1",
+    "PlannedHours":184,
+    "ActualHours":60,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0088",
+    "ProjectID":"P022",
+    "EmployeeID":"E012",
+    "TaskName":"Data Migration - Testing",
+    "PlannedHours":25,
+    "ActualHours":19,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0089",
+    "ProjectID":"P022",
+    "EmployeeID":"E036",
+    "TaskName":"Security Audit - Module C",
+    "PlannedHours":90,
+    "ActualHours":40,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0090",
+    "ProjectID":"P022",
+    "EmployeeID":"E080",
+    "TaskName":"Marketing Launch Prep - Configuration",
+    "PlannedHours":98,
+    "ActualHours":102,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0091",
+    "ProjectID":"P023",
+    "EmployeeID":"E023",
+    "TaskName":"API Development - Integration",
+    "PlannedHours":115,
+    "ActualHours":55,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0092",
+    "ProjectID":"P023",
+    "EmployeeID":"E058",
+    "TaskName":"CI\/CD Setup - Phase 1",
+    "PlannedHours":117,
+    "ActualHours":75,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0093",
+    "ProjectID":"P023",
+    "EmployeeID":"E090",
+    "TaskName":"Data Migration - Deployment",
+    "PlannedHours":86,
+    "ActualHours":86,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0094",
+    "ProjectID":"P023",
+    "EmployeeID":"E028",
+    "TaskName":"Compliance Documentation - Configuration",
+    "PlannedHours":70,
+    "ActualHours":78,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0095",
+    "ProjectID":"P023",
+    "EmployeeID":"E023",
+    "TaskName":"Mobile App Integration - Module A",
+    "PlannedHours":172,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0096",
+    "ProjectID":"P024",
+    "EmployeeID":"E059",
+    "TaskName":"Design Prototype - Configuration",
+    "PlannedHours":137,
+    "ActualHours":146,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0097",
+    "ProjectID":"P024",
+    "EmployeeID":"E054",
+    "TaskName":"User Acceptance Testing - Data Prep",
+    "PlannedHours":195,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0098",
+    "ProjectID":"P024",
+    "EmployeeID":"E054",
+    "TaskName":"CI\/CD Setup - Configuration",
+    "PlannedHours":87,
+    "ActualHours":105,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0099",
+    "ProjectID":"P024",
+    "EmployeeID":"E059",
+    "TaskName":"Data Migration - Finalization",
+    "PlannedHours":76,
+    "ActualHours":87,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0100",
+    "ProjectID":"P025",
+    "EmployeeID":"E087",
+    "TaskName":"Design Prototype - Enhancement",
+    "PlannedHours":27,
+    "ActualHours":20,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0101",
+    "ProjectID":"P025",
+    "EmployeeID":"E087",
+    "TaskName":"KPI Definition - Enhancement",
+    "PlannedHours":198,
+    "ActualHours":150,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0102",
+    "ProjectID":"P025",
+    "EmployeeID":"E087",
+    "TaskName":"Security Audit - Upgrade",
+    "PlannedHours":98,
+    "ActualHours":67,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0103",
+    "ProjectID":"P025",
+    "EmployeeID":"E087",
+    "TaskName":"CI\/CD Setup - Refinement",
+    "PlannedHours":181,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0104",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"API Development - Deployment",
+    "PlannedHours":188,
+    "ActualHours":143,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0105",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"Data Migration - Validation",
+    "PlannedHours":48,
+    "ActualHours":38,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0106",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"Compliance Documentation - Finalization",
+    "PlannedHours":97,
+    "ActualHours":84,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0107",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"Marketing Launch Prep - Compliance",
+    "PlannedHours":192,
+    "ActualHours":149,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0108",
+    "ProjectID":"P027",
+    "EmployeeID":"E072",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":190,
+    "ActualHours":152,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0109",
+    "ProjectID":"P027",
+    "EmployeeID":"E024",
+    "TaskName":"Marketing Launch Prep - Module B",
+    "PlannedHours":198,
+    "ActualHours":201,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0110",
+    "ProjectID":"P027",
+    "EmployeeID":"E086",
+    "TaskName":"API Development - Module A",
+    "PlannedHours":67,
+    "ActualHours":31,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0111",
+    "ProjectID":"P027",
+    "EmployeeID":"E116",
+    "TaskName":"CI\/CD Setup - Initial Setup",
+    "PlannedHours":115,
+    "ActualHours":53,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0112",
+    "ProjectID":"P028",
+    "EmployeeID":"E025",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":113,
+    "ActualHours":87,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0113",
+    "ProjectID":"P028",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Testing",
+    "PlannedHours":104,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0114",
+    "ProjectID":"P028",
+    "EmployeeID":"E062",
+    "TaskName":"API Development - Phase 1",
+    "PlannedHours":51,
+    "ActualHours":46,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0115",
+    "ProjectID":"P028",
+    "EmployeeID":"E025",
+    "TaskName":"Design Prototype - Optimization",
+    "PlannedHours":36,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0116",
+    "ProjectID":"P029",
+    "EmployeeID":"E056",
+    "TaskName":"Unit Testing - Compliance",
+    "PlannedHours":70,
+    "ActualHours":15,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0117",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"Compliance Documentation - Compliance",
+    "PlannedHours":56,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0118",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"CI\/CD Setup - Upgrade",
+    "PlannedHours":91,
+    "ActualHours":89,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0119",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"Design Prototype - Finalization",
+    "PlannedHours":78,
+    "ActualHours":25,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0120",
+    "ProjectID":"P030",
+    "EmployeeID":"E062",
+    "TaskName":"Mobile App Integration - Compliance",
+    "PlannedHours":29,
+    "ActualHours":30,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0121",
+    "ProjectID":"P030",
+    "EmployeeID":"E081",
+    "TaskName":"CI\/CD Setup - Integration",
+    "PlannedHours":129,
+    "ActualHours":138,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0122",
+    "ProjectID":"P030",
+    "EmployeeID":"E019",
+    "TaskName":"Requirement Gathering - Phase 2",
+    "PlannedHours":29,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0123",
+    "ProjectID":"P030",
+    "EmployeeID":"E058",
+    "TaskName":"Unit Testing - Phase 1",
+    "PlannedHours":117,
+    "ActualHours":152,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0124",
+    "ProjectID":"P031",
+    "EmployeeID":"E072",
+    "TaskName":"Security Audit - Refinement",
+    "PlannedHours":89,
+    "ActualHours":9,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0125",
+    "ProjectID":"P031",
+    "EmployeeID":"E120",
+    "TaskName":"CI\/CD Setup - Module B",
+    "PlannedHours":73,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0126",
+    "ProjectID":"P031",
+    "EmployeeID":"E120",
+    "TaskName":"Design Prototype - Configuration",
+    "PlannedHours":137,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0127",
+    "ProjectID":"P031",
+    "EmployeeID":"E103",
+    "TaskName":"Mobile App Integration - Finalization",
+    "PlannedHours":175,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0128",
+    "ProjectID":"P032",
+    "EmployeeID":"E062",
+    "TaskName":"Marketing Launch Prep - Testing",
+    "PlannedHours":182,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0129",
+    "ProjectID":"P032",
+    "EmployeeID":"E019",
+    "TaskName":"Unit Testing - Phase 1",
+    "PlannedHours":36,
+    "ActualHours":8,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0130",
+    "ProjectID":"P032",
+    "EmployeeID":"E041",
+    "TaskName":"Requirement Gathering - Phase 1",
+    "PlannedHours":41,
+    "ActualHours":32,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0131",
+    "ProjectID":"P032",
+    "EmployeeID":"E083",
+    "TaskName":"Design Prototype - Enhancement",
+    "PlannedHours":89,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0132",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"CI\/CD Setup - Phase 2",
+    "PlannedHours":159,
+    "ActualHours":52,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0133",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"Unit Testing - Integration",
+    "PlannedHours":187,
+    "ActualHours":97,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0134",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"Design Prototype - Configuration",
+    "PlannedHours":82,
+    "ActualHours":58,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0135",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"Marketing Launch Prep - Deployment",
+    "PlannedHours":200,
+    "ActualHours":207,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0136",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"User Acceptance Testing - Validation",
+    "PlannedHours":153,
+    "ActualHours":91,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0137",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Mobile App Integration - Configuration",
+    "PlannedHours":143,
+    "ActualHours":132,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0138",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Security Audit - Data Prep",
+    "PlannedHours":142,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0139",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"KPI Definition - Module C",
+    "PlannedHours":108,
+    "ActualHours":129,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0140",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Data Migration - Optimization",
+    "PlannedHours":77,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0141",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Compliance Documentation - Data Prep",
+    "PlannedHours":169,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0142",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":103,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0143",
+    "ProjectID":"P035",
+    "EmployeeID":"E074",
+    "TaskName":"Marketing Launch Prep - Optimization",
+    "PlannedHours":132,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0144",
+    "ProjectID":"P035",
+    "EmployeeID":"E107",
+    "TaskName":"User Acceptance Testing - Optimization",
+    "PlannedHours":141,
+    "ActualHours":160,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0145",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Data Migration - Stabilization",
+    "PlannedHours":183,
+    "ActualHours":232,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0146",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Requirement Gathering - Data Prep",
+    "PlannedHours":163,
+    "ActualHours":101,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0147",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Design Prototype - Phase 1",
+    "PlannedHours":59,
+    "ActualHours":49,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0148",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"KPI Definition - Stabilization",
+    "PlannedHours":104,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0149",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":56,
+    "ActualHours":46,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0150",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Design Prototype - Compliance",
+    "PlannedHours":188,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0151",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Data Migration - Validation",
+    "PlannedHours":190,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0152",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"User Acceptance Testing - Review",
+    "PlannedHours":111,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0153",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Mobile App Integration - Compliance",
+    "PlannedHours":103,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0154",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Requirement Gathering - Review",
+    "PlannedHours":27,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0155",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Marketing Launch Prep - Deployment",
+    "PlannedHours":144,
+    "ActualHours":141,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0156",
+    "ProjectID":"P038",
+    "EmployeeID":"E067",
+    "TaskName":"KPI Definition - Testing",
+    "PlannedHours":36,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0157",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Mobile App Integration - Module C",
+    "PlannedHours":69,
+    "ActualHours":48,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0158",
+    "ProjectID":"P038",
+    "EmployeeID":"E020",
+    "TaskName":"Security Audit - Stabilization",
+    "PlannedHours":81,
+    "ActualHours":29,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0159",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"CI\/CD Setup - Data Prep",
+    "PlannedHours":185,
+    "ActualHours":46,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0160",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"API Development - Compliance",
+    "PlannedHours":54,
+    "ActualHours":37,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0161",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"KPI Definition - Finalization",
+    "PlannedHours":117,
+    "ActualHours":52,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0162",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"Compliance Documentation - Module A",
+    "PlannedHours":152,
+    "ActualHours":199,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0163",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Compliance Documentation - Testing",
+    "PlannedHours":79,
+    "ActualHours":31,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0164",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"CI\/CD Setup - Data Prep",
+    "PlannedHours":184,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0165",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Unit Testing - Optimization",
+    "PlannedHours":155,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0166",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"KPI Definition - Validation",
+    "PlannedHours":137,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0167",
+    "ProjectID":"P041",
+    "EmployeeID":"E065",
+    "TaskName":"Design Prototype - Stabilization",
+    "PlannedHours":43,
+    "ActualHours":15,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0168",
+    "ProjectID":"P041",
+    "EmployeeID":"E089",
+    "TaskName":"Data Migration - Module A",
+    "PlannedHours":96,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0169",
+    "ProjectID":"P041",
+    "EmployeeID":"E026",
+    "TaskName":"Requirement Gathering - Initial Setup",
+    "PlannedHours":158,
+    "ActualHours":124,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0170",
+    "ProjectID":"P041",
+    "EmployeeID":"E003",
+    "TaskName":"CI\/CD Setup - Module C",
+    "PlannedHours":168,
+    "ActualHours":131,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0171",
+    "ProjectID":"P042",
+    "EmployeeID":"E071",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":37,
+    "ActualHours":35,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0172",
+    "ProjectID":"P042",
+    "EmployeeID":"E002",
+    "TaskName":"Marketing Launch Prep - Review",
+    "PlannedHours":78,
+    "ActualHours":91,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0173",
+    "ProjectID":"P042",
+    "EmployeeID":"E002",
+    "TaskName":"Design Prototype - Stabilization",
+    "PlannedHours":66,
+    "ActualHours":70,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0174",
+    "ProjectID":"P042",
+    "EmployeeID":"E106",
+    "TaskName":"CI\/CD Setup - Compliance",
+    "PlannedHours":44,
+    "ActualHours":48,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0175",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"User Acceptance Testing - Deployment",
+    "PlannedHours":106,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0176",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Testing",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0177",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"Data Migration - Data Prep",
+    "PlannedHours":49,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0178",
+    "ProjectID":"P043",
+    "EmployeeID":"E019",
+    "TaskName":"Security Audit - Phase 1",
+    "PlannedHours":145,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0179",
+    "ProjectID":"P044",
+    "EmployeeID":"E105",
+    "TaskName":"Design Prototype - Phase 1",
+    "PlannedHours":119,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0180",
+    "ProjectID":"P044",
+    "EmployeeID":"E105",
+    "TaskName":"API Development - Deployment",
+    "PlannedHours":91,
+    "ActualHours":114,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0181",
+    "ProjectID":"P044",
+    "EmployeeID":"E017",
+    "TaskName":"Data Migration - Enhancement",
+    "PlannedHours":44,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0182",
+    "ProjectID":"P044",
+    "EmployeeID":"E105",
+    "TaskName":"KPI Definition - Validation",
+    "PlannedHours":43,
+    "ActualHours":28,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0183",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Compliance Documentation - Enhancement",
+    "PlannedHours":94,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0184",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Marketing Launch Prep - Refinement",
+    "PlannedHours":46,
+    "ActualHours":61,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0185",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"CI\/CD Setup - Finalization",
+    "PlannedHours":137,
+    "ActualHours":99,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0186",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Unit Testing - Testing",
+    "PlannedHours":62,
+    "ActualHours":46,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0187",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":132,
+    "ActualHours":82,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0188",
+    "ProjectID":"P046",
+    "EmployeeID":"E086",
+    "TaskName":"Data Migration - Validation",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0189",
+    "ProjectID":"P046",
+    "EmployeeID":"E057",
+    "TaskName":"KPI Definition - Data Prep",
+    "PlannedHours":198,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0190",
+    "ProjectID":"P046",
+    "EmployeeID":"E025",
+    "TaskName":"Compliance Documentation - Initial Setup",
+    "PlannedHours":51,
+    "ActualHours":32,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0191",
+    "ProjectID":"P046",
+    "EmployeeID":"E050",
+    "TaskName":"Unit Testing - Review",
+    "PlannedHours":80,
+    "ActualHours":77,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0192",
+    "ProjectID":"P047",
+    "EmployeeID":"E018",
+    "TaskName":"API Development - Compliance",
+    "PlannedHours":196,
+    "ActualHours":241,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0193",
+    "ProjectID":"P047",
+    "EmployeeID":"E026",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":36,
+    "ActualHours":42,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0194",
+    "ProjectID":"P047",
+    "EmployeeID":"E018",
+    "TaskName":"KPI Definition - Enhancement",
+    "PlannedHours":173,
+    "ActualHours":215,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0195",
+    "ProjectID":"P047",
+    "EmployeeID":"E013",
+    "TaskName":"Data Migration - Phase 1",
+    "PlannedHours":111,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0196",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Security Audit - Compliance",
+    "PlannedHours":158,
+    "ActualHours":164,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0197",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Design Prototype - Module A",
+    "PlannedHours":168,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0198",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"KPI Definition - Module A",
+    "PlannedHours":134,
+    "ActualHours":174,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0199",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Data Migration - Module C",
+    "PlannedHours":130,
+    "ActualHours":93,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0200",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":176,
+    "ActualHours":40,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0201",
+    "ProjectID":"P049",
+    "EmployeeID":"E120",
+    "TaskName":"Data Migration - Data Prep",
+    "PlannedHours":85,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0202",
+    "ProjectID":"P049",
+    "EmployeeID":"E056",
+    "TaskName":"User Acceptance Testing - Stabilization",
+    "PlannedHours":43,
+    "ActualHours":56,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0203",
+    "ProjectID":"P049",
+    "EmployeeID":"E012",
+    "TaskName":"Mobile App Integration - Deployment",
+    "PlannedHours":110,
+    "ActualHours":64,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0204",
+    "ProjectID":"P049",
+    "EmployeeID":"E054",
+    "TaskName":"KPI Definition - Configuration",
+    "PlannedHours":39,
+    "ActualHours":35,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0205",
+    "ProjectID":"P050",
+    "EmployeeID":"E062",
+    "TaskName":"Unit Testing - Optimization",
+    "PlannedHours":78,
+    "ActualHours":58,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0206",
+    "ProjectID":"P050",
+    "EmployeeID":"E062",
+    "TaskName":"Security Audit - Module B",
+    "PlannedHours":141,
+    "ActualHours":123,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0207",
+    "ProjectID":"P050",
+    "EmployeeID":"E062",
+    "TaskName":"Marketing Launch Prep - Module A",
+    "PlannedHours":66,
+    "ActualHours":59,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0208",
+    "ProjectID":"P050",
+    "EmployeeID":"E062",
+    "TaskName":"Compliance Documentation - Refinement",
+    "PlannedHours":124,
+    "ActualHours":151,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0209",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"CI\/CD Setup - Review",
+    "PlannedHours":65,
+    "ActualHours":21,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0210",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Unit Testing - Upgrade",
+    "PlannedHours":113,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0211",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Marketing Launch Prep - Testing",
+    "PlannedHours":193,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0212",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Compliance Documentation - Stabilization",
+    "PlannedHours":62,
+    "ActualHours":68,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0213",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"CI\/CD Setup - Finalization",
+    "PlannedHours":191,
+    "ActualHours":76,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0214",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Requirement Gathering - Upgrade",
+    "PlannedHours":197,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0215",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Marketing Launch Prep - Module C",
+    "PlannedHours":40,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0216",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Design Prototype - Compliance",
+    "PlannedHours":34,
+    "ActualHours":16,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0217",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"Data Migration - Phase 1",
+    "PlannedHours":138,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0218",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"KPI Definition - Deployment",
+    "PlannedHours":24,
+    "ActualHours":21,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0219",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"API Development - Phase 2",
+    "PlannedHours":171,
+    "ActualHours":125,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0220",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":125,
+    "ActualHours":92,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0221",
+    "ProjectID":"P054",
+    "EmployeeID":"E082",
+    "TaskName":"Data Migration - Review",
+    "PlannedHours":170,
+    "ActualHours":62,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0222",
+    "ProjectID":"P054",
+    "EmployeeID":"E017",
+    "TaskName":"User Acceptance Testing - Review",
+    "PlannedHours":137,
+    "ActualHours":43,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0223",
+    "ProjectID":"P054",
+    "EmployeeID":"E081",
+    "TaskName":"API Development - Refinement",
+    "PlannedHours":95,
+    "ActualHours":43,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0224",
+    "ProjectID":"P054",
+    "EmployeeID":"E017",
+    "TaskName":"CI\/CD Setup - Testing",
+    "PlannedHours":131,
+    "ActualHours":101,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0225",
+    "ProjectID":"P054",
+    "EmployeeID":"E074",
+    "TaskName":"Design Prototype - Optimization",
+    "PlannedHours":186,
+    "ActualHours":265,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0226",
+    "ProjectID":"P055",
+    "EmployeeID":"E046",
+    "TaskName":"Unit Testing - Review",
+    "PlannedHours":164,
+    "ActualHours":112,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0227",
+    "ProjectID":"P055",
+    "EmployeeID":"E048",
+    "TaskName":"API Development - Upgrade",
+    "PlannedHours":83,
+    "ActualHours":50,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0228",
+    "ProjectID":"P055",
+    "EmployeeID":"E046",
+    "TaskName":"Mobile App Integration - Module B",
+    "PlannedHours":121,
+    "ActualHours":45,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0229",
+    "ProjectID":"P055",
+    "EmployeeID":"E048",
+    "TaskName":"Design Prototype - Refinement",
+    "PlannedHours":99,
+    "ActualHours":80,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0230",
+    "ProjectID":"P055",
+    "EmployeeID":"E046",
+    "TaskName":"Marketing Launch Prep - Phase 1",
+    "PlannedHours":144,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0231",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Compliance Documentation - Stabilization",
+    "PlannedHours":147,
+    "ActualHours":77,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0232",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"CI\/CD Setup - Phase 1",
+    "PlannedHours":131,
+    "ActualHours":68,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0233",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0234",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Security Audit - Review",
+    "PlannedHours":98,
+    "ActualHours":82,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0235",
+    "ProjectID":"P057",
+    "EmployeeID":"E062",
+    "TaskName":"API Development - Optimization",
+    "PlannedHours":199,
+    "ActualHours":60,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0236",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Module B",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0237",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"User Acceptance Testing - Stabilization",
+    "PlannedHours":34,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0238",
+    "ProjectID":"P057",
+    "EmployeeID":"E042",
+    "TaskName":"Unit Testing - Module A",
+    "PlannedHours":64,
+    "ActualHours":44,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0239",
+    "ProjectID":"P058",
+    "EmployeeID":"E114",
+    "TaskName":"Design Prototype - Integration",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0240",
+    "ProjectID":"P058",
+    "EmployeeID":"E095",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":53,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0241",
+    "ProjectID":"P058",
+    "EmployeeID":"E114",
+    "TaskName":"Compliance Documentation - Module B",
+    "PlannedHours":124,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0242",
+    "ProjectID":"P058",
+    "EmployeeID":"E119",
+    "TaskName":"Requirement Gathering - Module B",
+    "PlannedHours":79,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0243",
+    "ProjectID":"P059",
+    "EmployeeID":"E050",
+    "TaskName":"Marketing Launch Prep - Review",
+    "PlannedHours":38,
+    "ActualHours":20,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0244",
+    "ProjectID":"P059",
+    "EmployeeID":"E108",
+    "TaskName":"User Acceptance Testing - Upgrade",
+    "PlannedHours":119,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0245",
+    "ProjectID":"P059",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":26,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0246",
+    "ProjectID":"P059",
+    "EmployeeID":"E054",
+    "TaskName":"KPI Definition - Phase 1",
+    "PlannedHours":166,
+    "ActualHours":174,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0247",
+    "ProjectID":"P059",
+    "EmployeeID":"E113",
+    "TaskName":"Requirement Gathering - Review",
+    "PlannedHours":32,
+    "ActualHours":8,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0248",
+    "ProjectID":"P060",
+    "EmployeeID":"E086",
+    "TaskName":"Unit Testing - Phase 2",
+    "PlannedHours":107,
+    "ActualHours":79,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0249",
+    "ProjectID":"P060",
+    "EmployeeID":"E097",
+    "TaskName":"Mobile App Integration - Initial Setup",
+    "PlannedHours":55,
+    "ActualHours":14,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0250",
+    "ProjectID":"P060",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Stabilization",
+    "PlannedHours":121,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0251",
+    "ProjectID":"P060",
+    "EmployeeID":"E062",
+    "TaskName":"Data Migration - Optimization",
+    "PlannedHours":167,
+    "ActualHours":75,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0252",
+    "ProjectID":"P061",
+    "EmployeeID":"E113",
+    "TaskName":"KPI Definition - Data Prep",
+    "PlannedHours":125,
+    "ActualHours":132,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0253",
+    "ProjectID":"P061",
+    "EmployeeID":"E056",
+    "TaskName":"Marketing Launch Prep - Phase 1",
+    "PlannedHours":88,
+    "ActualHours":47,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0254",
+    "ProjectID":"P061",
+    "EmployeeID":"E035",
+    "TaskName":"Mobile App Integration - Module B",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0255",
+    "ProjectID":"P061",
+    "EmployeeID":"E046",
+    "TaskName":"Data Migration - Initial Setup",
+    "PlannedHours":109,
+    "ActualHours":67,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0256",
+    "ProjectID":"P062",
+    "EmployeeID":"E115",
+    "TaskName":"Design Prototype - Phase 2",
+    "PlannedHours":185,
+    "ActualHours":81,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0257",
+    "ProjectID":"P062",
+    "EmployeeID":"E069",
+    "TaskName":"Mobile App Integration - Module C",
+    "PlannedHours":187,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0258",
+    "ProjectID":"P062",
+    "EmployeeID":"E003",
+    "TaskName":"KPI Definition - Optimization",
+    "PlannedHours":133,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0259",
+    "ProjectID":"P062",
+    "EmployeeID":"E115",
+    "TaskName":"API Development - Data Prep",
+    "PlannedHours":63,
+    "ActualHours":35,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0260",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Marketing Launch Prep - Testing",
+    "PlannedHours":96,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0261",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"KPI Definition - Stabilization",
+    "PlannedHours":103,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0262",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Phase 1",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0263",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"API Development - Upgrade",
+    "PlannedHours":90,
+    "ActualHours":10,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0264",
+    "ProjectID":"P064",
+    "EmployeeID":"E020",
+    "TaskName":"Security Audit - Deployment",
+    "PlannedHours":84,
+    "ActualHours":49,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0265",
+    "ProjectID":"P064",
+    "EmployeeID":"E086",
+    "TaskName":"API Development - Testing",
+    "PlannedHours":109,
+    "ActualHours":77,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0266",
+    "ProjectID":"P064",
+    "EmployeeID":"E062",
+    "TaskName":"Unit Testing - Compliance",
+    "PlannedHours":176,
+    "ActualHours":67,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0267",
+    "ProjectID":"P064",
+    "EmployeeID":"E025",
+    "TaskName":"Design Prototype - Phase 1",
+    "PlannedHours":38,
+    "ActualHours":34,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0268",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"User Acceptance Testing - Data Prep",
+    "PlannedHours":110,
+    "ActualHours":106,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0269",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"Security Audit - Enhancement",
+    "PlannedHours":94,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0270",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"Mobile App Integration - Optimization",
+    "PlannedHours":29,
+    "ActualHours":38,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0271",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"CI\/CD Setup - Phase 2",
+    "PlannedHours":171,
+    "ActualHours":122,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0272",
+    "ProjectID":"P066",
+    "EmployeeID":"E016",
+    "TaskName":"CI\/CD Setup - Testing",
+    "PlannedHours":135,
+    "ActualHours":166,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0273",
+    "ProjectID":"P066",
+    "EmployeeID":"E055",
+    "TaskName":"Data Migration - Finalization",
+    "PlannedHours":114,
+    "ActualHours":128,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0274",
+    "ProjectID":"P066",
+    "EmployeeID":"E030",
+    "TaskName":"API Development - Module B",
+    "PlannedHours":101,
+    "ActualHours":126,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0275",
+    "ProjectID":"P066",
+    "EmployeeID":"E055",
+    "TaskName":"Requirement Gathering - Optimization",
+    "PlannedHours":144,
+    "ActualHours":153,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0276",
+    "ProjectID":"P066",
+    "EmployeeID":"E022",
+    "TaskName":"Unit Testing - Enhancement",
+    "PlannedHours":67,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0277",
+    "ProjectID":"P067",
+    "EmployeeID":"E058",
+    "TaskName":"Marketing Launch Prep - Phase 1",
+    "PlannedHours":160,
+    "ActualHours":180,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0278",
+    "ProjectID":"P067",
+    "EmployeeID":"E094",
+    "TaskName":"Compliance Documentation - Phase 2",
+    "PlannedHours":124,
+    "ActualHours":96,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0279",
+    "ProjectID":"P067",
+    "EmployeeID":"E114",
+    "TaskName":"Requirement Gathering - Enhancement",
+    "PlannedHours":32,
+    "ActualHours":9,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0280",
+    "ProjectID":"P067",
+    "EmployeeID":"E116",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":67,
+    "ActualHours":42,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0281",
+    "ProjectID":"P068",
+    "EmployeeID":"E023",
+    "TaskName":"Data Migration - Validation",
+    "PlannedHours":164,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0282",
+    "ProjectID":"P068",
+    "EmployeeID":"E021",
+    "TaskName":"User Acceptance Testing - Validation",
+    "PlannedHours":185,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0283",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"API Development - Testing",
+    "PlannedHours":35,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0284",
+    "ProjectID":"P068",
+    "EmployeeID":"E021",
+    "TaskName":"Unit Testing - Stabilization",
+    "PlannedHours":183,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0285",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"Marketing Launch Prep - Validation",
+    "PlannedHours":107,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0286",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Unit Testing - Phase 1",
+    "PlannedHours":195,
+    "ActualHours":187,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0287",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Requirement Gathering - Enhancement",
+    "PlannedHours":33,
+    "ActualHours":30,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0288",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Mobile App Integration - Integration",
+    "PlannedHours":200,
+    "ActualHours":260,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0289",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Data Migration - Configuration",
+    "PlannedHours":85,
+    "ActualHours":93,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0290",
+    "ProjectID":"P070",
+    "EmployeeID":"E114",
+    "TaskName":"Mobile App Integration - Refinement",
+    "PlannedHours":26,
+    "ActualHours":22,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0291",
+    "ProjectID":"P070",
+    "EmployeeID":"E102",
+    "TaskName":"Requirement Gathering - Initial Setup",
+    "PlannedHours":62,
+    "ActualHours":61,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0292",
+    "ProjectID":"P070",
+    "EmployeeID":"E102",
+    "TaskName":"KPI Definition - Integration",
+    "PlannedHours":68,
+    "ActualHours":22,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0293",
+    "ProjectID":"P070",
+    "EmployeeID":"E065",
+    "TaskName":"Security Audit - Integration",
+    "PlannedHours":120,
+    "ActualHours":59,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0294",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":156,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0295",
+    "ProjectID":"P071",
+    "EmployeeID":"E038",
+    "TaskName":"API Development - Phase 1",
+    "PlannedHours":123,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0296",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"User Acceptance Testing - Deployment",
+    "PlannedHours":38,
+    "ActualHours":4,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0297",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Phase 1",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0298",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":107,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0299",
+    "ProjectID":"P072",
+    "EmployeeID":"E028",
+    "TaskName":"Data Migration - Refinement",
+    "PlannedHours":94,
+    "ActualHours":57,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0300",
+    "ProjectID":"P072",
+    "EmployeeID":"E092",
+    "TaskName":"API Development - Optimization",
+    "PlannedHours":32,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0301",
+    "ProjectID":"P072",
+    "EmployeeID":"E024",
+    "TaskName":"Requirement Gathering - Data Prep",
+    "PlannedHours":147,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0302",
+    "ProjectID":"P072",
+    "EmployeeID":"E091",
+    "TaskName":"Marketing Launch Prep - Compliance",
+    "PlannedHours":34,
+    "ActualHours":30,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0303",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Unit Testing - Stabilization",
+    "PlannedHours":195,
+    "ActualHours":187,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0304",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"User Acceptance Testing - Module C",
+    "PlannedHours":34,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0305",
+    "ProjectID":"P067",
+    "EmployeeID":"E058",
+    "TaskName":"Marketing Launch Prep - Refinement",
+    "PlannedHours":160,
+    "ActualHours":180,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0306",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"Requirement Gathering - Module A",
+    "PlannedHours":122,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0307",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Upgrade",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0308",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"CI\/CD Setup - Initial Setup",
+    "PlannedHours":65,
+    "ActualHours":21,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0309",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"Requirement Gathering - Optimization",
+    "PlannedHours":122,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0310",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Integration",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0311",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"Unit Testing - Finalization",
+    "PlannedHours":133,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0312",
+    "ProjectID":"P038",
+    "EmployeeID":"E020",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":81,
+    "ActualHours":29,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0313",
+    "ProjectID":"P072",
+    "EmployeeID":"E024",
+    "TaskName":"Requirement Gathering - Deployment",
+    "PlannedHours":147,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0314",
+    "ProjectID":"P023",
+    "EmployeeID":"E028",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":70,
+    "ActualHours":78,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0315",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"KPI Definition - Phase 1",
+    "PlannedHours":104,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0316",
+    "ProjectID":"P044",
+    "EmployeeID":"E017",
+    "TaskName":"Data Migration - Phase 1",
+    "PlannedHours":44,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0317",
+    "ProjectID":"P004",
+    "EmployeeID":"E006",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":92,
+    "ActualHours":84,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0318",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"User Acceptance Testing - Refinement",
+    "PlannedHours":86,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0319",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":155,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0320",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"Marketing Launch Prep - Phase 2",
+    "PlannedHours":107,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0321",
+    "ProjectID":"P004",
+    "EmployeeID":"E006",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":92,
+    "ActualHours":84,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0322",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"Marketing Launch Prep - Refinement",
+    "PlannedHours":192,
+    "ActualHours":149,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0323",
+    "ProjectID":"P017",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Data Prep",
+    "PlannedHours":100,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0324",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Marketing Launch Prep - Finalization",
+    "PlannedHours":40,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0325",
+    "ProjectID":"P021",
+    "EmployeeID":"E094",
+    "TaskName":"Marketing Launch Prep - Integration",
+    "PlannedHours":35,
+    "ActualHours":13,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0326",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Security Audit - Review",
+    "PlannedHours":142,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0327",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Mobile App Integration - Optimization",
+    "PlannedHours":69,
+    "ActualHours":48,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0328",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"Data Migration - Integration",
+    "PlannedHours":49,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0329",
+    "ProjectID":"P041",
+    "EmployeeID":"E089",
+    "TaskName":"Data Migration - Refinement",
+    "PlannedHours":96,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0330",
+    "ProjectID":"P060",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Compliance",
+    "PlannedHours":121,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0331",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"CI\/CD Setup - Enhancement",
+    "PlannedHours":159,
+    "ActualHours":52,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0332",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"KPI Definition - Testing",
+    "PlannedHours":24,
+    "ActualHours":21,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0333",
+    "ProjectID":"P017",
+    "EmployeeID":"E092",
+    "TaskName":"CI\/CD Setup - Upgrade",
+    "PlannedHours":130,
+    "ActualHours":74,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0334",
+    "ProjectID":"P010",
+    "EmployeeID":"E066",
+    "TaskName":"Mobile App Integration - Module C",
+    "PlannedHours":70,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0335",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"Requirement Gathering - Compliance",
+    "PlannedHours":122,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0336",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Review",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0337",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"User Acceptance Testing - Testing",
+    "PlannedHours":100,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0338",
+    "ProjectID":"P058",
+    "EmployeeID":"E114",
+    "TaskName":"Design Prototype - Phase 2",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0339",
+    "ProjectID":"P059",
+    "EmployeeID":"E113",
+    "TaskName":"Requirement Gathering - Initial Setup",
+    "PlannedHours":32,
+    "ActualHours":8,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0340",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0341",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Mobile App Integration - Upgrade",
+    "PlannedHours":69,
+    "ActualHours":48,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0342",
+    "ProjectID":"P012",
+    "EmployeeID":"E086",
+    "TaskName":"Unit Testing - Data Prep",
+    "PlannedHours":32,
+    "ActualHours":15,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0343",
+    "ProjectID":"P066",
+    "EmployeeID":"E030",
+    "TaskName":"API Development - Initial Setup",
+    "PlannedHours":101,
+    "ActualHours":126,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0344",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Configuration",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0345",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Compliance Documentation - Optimization",
+    "PlannedHours":62,
+    "ActualHours":68,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0346",
+    "ProjectID":"P049",
+    "EmployeeID":"E120",
+    "TaskName":"Data Migration - Deployment",
+    "PlannedHours":85,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0347",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Finalization",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0348",
+    "ProjectID":"P062",
+    "EmployeeID":"E003",
+    "TaskName":"KPI Definition - Initial Setup",
+    "PlannedHours":133,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0349",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Mobile App Integration - Finalization",
+    "PlannedHours":103,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0350",
+    "ProjectID":"P014",
+    "EmployeeID":"E030",
+    "TaskName":"Marketing Launch Prep - Optimization",
+    "PlannedHours":196,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0351",
+    "ProjectID":"P072",
+    "EmployeeID":"E092",
+    "TaskName":"API Development - Configuration",
+    "PlannedHours":32,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0352",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Deployment",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0353",
+    "ProjectID":"P061",
+    "EmployeeID":"E056",
+    "TaskName":"Marketing Launch Prep - Module A",
+    "PlannedHours":88,
+    "ActualHours":47,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0354",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Initial Setup",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0355",
+    "ProjectID":"P003",
+    "EmployeeID":"E021",
+    "TaskName":"Security Audit - Finalization",
+    "PlannedHours":142,
+    "ActualHours":182,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0356",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"CI\/CD Setup - Data Prep",
+    "PlannedHours":131,
+    "ActualHours":68,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0357",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Data Prep",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0358",
+    "ProjectID":"P010",
+    "EmployeeID":"E016",
+    "TaskName":"Security Audit - Review",
+    "PlannedHours":106,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0359",
+    "ProjectID":"P005",
+    "EmployeeID":"E040",
+    "TaskName":"Mobile App Integration - Module A",
+    "PlannedHours":162,
+    "ActualHours":71,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0360",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Marketing Launch Prep - Module A",
+    "PlannedHours":193,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0361",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Requirement Gathering - Review",
+    "PlannedHours":27,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0362",
+    "ProjectID":"P057",
+    "EmployeeID":"E042",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":64,
+    "ActualHours":44,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0363",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Security Audit - Stabilization",
+    "PlannedHours":142,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0364",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"User Acceptance Testing - Testing",
+    "PlannedHours":100,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0365",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Enhancement",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0366",
+    "ProjectID":"P057",
+    "EmployeeID":"E042",
+    "TaskName":"Unit Testing - Module C",
+    "PlannedHours":64,
+    "ActualHours":44,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0367",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"KPI Definition - Optimization",
+    "PlannedHours":83,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0368",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Design Prototype - Integration",
+    "PlannedHours":168,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0369",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"Design Prototype - Finalization",
+    "PlannedHours":78,
+    "ActualHours":25,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0370",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Compliance Documentation - Finalization",
+    "PlannedHours":94,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0371",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"KPI Definition - Review",
+    "PlannedHours":104,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0372",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Enhancement",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0373",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"API Development - Finalization",
+    "PlannedHours":190,
+    "ActualHours":132,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0374",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Configuration",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0375",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"Mobile App Integration - Phase 2",
+    "PlannedHours":29,
+    "ActualHours":38,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0376",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":143,
+    "ActualHours":132,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0377",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Enhancement",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0378",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Design Prototype - Integration",
+    "PlannedHours":188,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0379",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0380",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Data Prep",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0381",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"KPI Definition - Module A",
+    "PlannedHours":103,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0382",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Finalization",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0383",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Data Migration - Finalization",
+    "PlannedHours":85,
+    "ActualHours":93,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0384",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Mobile App Integration - Integration",
+    "PlannedHours":107,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0385",
+    "ProjectID":"P035",
+    "EmployeeID":"E107",
+    "TaskName":"User Acceptance Testing - Refinement",
+    "PlannedHours":141,
+    "ActualHours":160,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0386",
+    "ProjectID":"P061",
+    "EmployeeID":"E035",
+    "TaskName":"Mobile App Integration - Validation",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0387",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Compliance Documentation - Review",
+    "PlannedHours":147,
+    "ActualHours":77,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0388",
+    "ProjectID":"P007",
+    "EmployeeID":"E032",
+    "TaskName":"CI\/CD Setup - Phase 2",
+    "PlannedHours":187,
+    "ActualHours":193,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0389",
+    "ProjectID":"P013",
+    "EmployeeID":"E097",
+    "TaskName":"Security Audit - Optimization",
+    "PlannedHours":69,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0390",
+    "ProjectID":"P047",
+    "EmployeeID":"E026",
+    "TaskName":"Mobile App Integration - Review",
+    "PlannedHours":36,
+    "ActualHours":42,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0391",
+    "ProjectID":"P004",
+    "EmployeeID":"E006",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":92,
+    "ActualHours":84,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0392",
+    "ProjectID":"P013",
+    "EmployeeID":"E097",
+    "TaskName":"Security Audit - Stabilization",
+    "PlannedHours":69,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0393",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"KPI Definition - Data Prep",
+    "PlannedHours":143,
+    "ActualHours":100,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0394",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"User Acceptance Testing - Enhancement",
+    "PlannedHours":38,
+    "ActualHours":4,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0395",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"API Development - Review",
+    "PlannedHours":55,
+    "ActualHours":44,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0396",
+    "ProjectID":"P016",
+    "EmployeeID":"E030",
+    "TaskName":"Design Prototype - Module B",
+    "PlannedHours":161,
+    "ActualHours":205,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0397",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Initial Setup",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0398",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Compliance",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0399",
+    "ProjectID":"P035",
+    "EmployeeID":"E074",
+    "TaskName":"Marketing Launch Prep - Stabilization",
+    "PlannedHours":132,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0400",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Marketing Launch Prep - Phase 1",
+    "PlannedHours":40,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0401",
+    "ProjectID":"P067",
+    "EmployeeID":"E058",
+    "TaskName":"Marketing Launch Prep - Configuration",
+    "PlannedHours":160,
+    "ActualHours":180,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0402",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Review",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0403",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Compliance Documentation - Phase 1",
+    "PlannedHours":94,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0404",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"User Acceptance Testing - Integration",
+    "PlannedHours":101,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0405",
+    "ProjectID":"P058",
+    "EmployeeID":"E119",
+    "TaskName":"Requirement Gathering - Phase 1",
+    "PlannedHours":79,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0406",
+    "ProjectID":"P023",
+    "EmployeeID":"E058",
+    "TaskName":"CI\/CD Setup - Compliance",
+    "PlannedHours":117,
+    "ActualHours":75,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0407",
+    "ProjectID":"P072",
+    "EmployeeID":"E024",
+    "TaskName":"Requirement Gathering - Deployment",
+    "PlannedHours":147,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0408",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Data Migration - Configuration",
+    "PlannedHours":130,
+    "ActualHours":93,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0409",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"CI\/CD Setup - Refinement",
+    "PlannedHours":65,
+    "ActualHours":21,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0410",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Compliance Documentation - Module C",
+    "PlannedHours":94,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0411",
+    "ProjectID":"P071",
+    "EmployeeID":"E038",
+    "TaskName":"API Development - Testing",
+    "PlannedHours":123,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0412",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Configuration",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0413",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Security Audit - Module B",
+    "PlannedHours":158,
+    "ActualHours":164,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0414",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"API Development - Upgrade",
+    "PlannedHours":145,
+    "ActualHours":49,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0415",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Unit Testing - Enhancement",
+    "PlannedHours":155,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0416",
+    "ProjectID":"P008",
+    "EmployeeID":"E111",
+    "TaskName":"KPI Definition - Module C",
+    "PlannedHours":50,
+    "ActualHours":41,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0417",
+    "ProjectID":"P027",
+    "EmployeeID":"E116",
+    "TaskName":"CI\/CD Setup - Enhancement",
+    "PlannedHours":115,
+    "ActualHours":53,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0418",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"Mobile App Integration - Data Prep",
+    "PlannedHours":29,
+    "ActualHours":38,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0419",
+    "ProjectID":"P061",
+    "EmployeeID":"E046",
+    "TaskName":"Data Migration - Upgrade",
+    "PlannedHours":109,
+    "ActualHours":67,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0420",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Mobile App Integration - Enhancement",
+    "PlannedHours":200,
+    "ActualHours":260,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0421",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"Unit Testing - Configuration",
+    "PlannedHours":133,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0422",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"User Acceptance Testing - Configuration",
+    "PlannedHours":34,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0423",
+    "ProjectID":"P002",
+    "EmployeeID":"E078",
+    "TaskName":"Data Migration - Review",
+    "PlannedHours":68,
+    "ActualHours":64,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0424",
+    "ProjectID":"P062",
+    "EmployeeID":"E115",
+    "TaskName":"Design Prototype - Compliance",
+    "PlannedHours":185,
+    "ActualHours":81,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0425",
+    "ProjectID":"P001",
+    "EmployeeID":"E112",
+    "TaskName":"User Acceptance Testing - Validation",
+    "PlannedHours":184,
+    "ActualHours":211,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0426",
+    "ProjectID":"P022",
+    "EmployeeID":"E012",
+    "TaskName":"Data Migration - Phase 2",
+    "PlannedHours":25,
+    "ActualHours":19,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0427",
+    "ProjectID":"P032",
+    "EmployeeID":"E083",
+    "TaskName":"Design Prototype - Integration",
+    "PlannedHours":89,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0428",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"KPI Definition - Optimization",
+    "PlannedHours":83,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0429",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Enhancement",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0430",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Phase 1",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0431",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"CI\/CD Setup - Optimization",
+    "PlannedHours":91,
+    "ActualHours":89,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0432",
+    "ProjectID":"P044",
+    "EmployeeID":"E017",
+    "TaskName":"Data Migration - Refinement",
+    "PlannedHours":44,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0433",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"API Development - Compliance",
+    "PlannedHours":190,
+    "ActualHours":132,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0434",
+    "ProjectID":"P016",
+    "EmployeeID":"E076",
+    "TaskName":"CI\/CD Setup - Deployment",
+    "PlannedHours":107,
+    "ActualHours":152,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0435",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Requirement Gathering - Stabilization",
+    "PlannedHours":27,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0436",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Review",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0437",
+    "ProjectID":"P059",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Upgrade",
+    "PlannedHours":26,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0438",
+    "ProjectID":"P054",
+    "EmployeeID":"E074",
+    "TaskName":"Design Prototype - Module B",
+    "PlannedHours":186,
+    "ActualHours":265,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0439",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Requirement Gathering - Stabilization",
+    "PlannedHours":163,
+    "ActualHours":101,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0440",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"API Development - Module A",
+    "PlannedHours":171,
+    "ActualHours":125,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0441",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Testing",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0442",
+    "ProjectID":"P046",
+    "EmployeeID":"E057",
+    "TaskName":"KPI Definition - Enhancement",
+    "PlannedHours":198,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0443",
+    "ProjectID":"P049",
+    "EmployeeID":"E120",
+    "TaskName":"Data Migration - Refinement",
+    "PlannedHours":85,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0444",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"API Development - Validation",
+    "PlannedHours":171,
+    "ActualHours":125,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0445",
+    "ProjectID":"P012",
+    "EmployeeID":"E051",
+    "TaskName":"API Development - Module C",
+    "PlannedHours":196,
+    "ActualHours":73,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0446",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Requirement Gathering - Module B",
+    "PlannedHours":197,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0447",
+    "ProjectID":"P046",
+    "EmployeeID":"E086",
+    "TaskName":"Data Migration - Integration",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0448",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Finalization",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0449",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Unit Testing - Stabilization",
+    "PlannedHours":155,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0450",
+    "ProjectID":"P061",
+    "EmployeeID":"E035",
+    "TaskName":"Mobile App Integration - Module B",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0451",
+    "ProjectID":"P054",
+    "EmployeeID":"E074",
+    "TaskName":"Design Prototype - Finalization",
+    "PlannedHours":186,
+    "ActualHours":265,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0452",
+    "ProjectID":"P041",
+    "EmployeeID":"E003",
+    "TaskName":"CI\/CD Setup - Deployment",
+    "PlannedHours":168,
+    "ActualHours":131,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0453",
+    "ProjectID":"P059",
+    "EmployeeID":"E050",
+    "TaskName":"Marketing Launch Prep - Integration",
+    "PlannedHours":38,
+    "ActualHours":20,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0454",
+    "ProjectID":"P049",
+    "EmployeeID":"E012",
+    "TaskName":"Mobile App Integration - Initial Setup",
+    "PlannedHours":110,
+    "ActualHours":64,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0455",
+    "ProjectID":"P042",
+    "EmployeeID":"E106",
+    "TaskName":"CI\/CD Setup - Module A",
+    "PlannedHours":44,
+    "ActualHours":48,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0456",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"Data Migration - Integration",
+    "PlannedHours":49,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0457",
+    "ProjectID":"P029",
+    "EmployeeID":"E056",
+    "TaskName":"Unit Testing - Enhancement",
+    "PlannedHours":70,
+    "ActualHours":15,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0458",
+    "ProjectID":"P028",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Configuration",
+    "PlannedHours":104,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0459",
+    "ProjectID":"P049",
+    "EmployeeID":"E012",
+    "TaskName":"Mobile App Integration - Stabilization",
+    "PlannedHours":110,
+    "ActualHours":64,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0460",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"Data Migration - Upgrade",
+    "PlannedHours":138,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0461",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Refinement",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0462",
+    "ProjectID":"P042",
+    "EmployeeID":"E002",
+    "TaskName":"Marketing Launch Prep - Phase 1",
+    "PlannedHours":78,
+    "ActualHours":91,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0463",
+    "ProjectID":"P003",
+    "EmployeeID":"E078",
+    "TaskName":"Mobile App Integration - Testing",
+    "PlannedHours":47,
+    "ActualHours":43,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0464",
+    "ProjectID":"P058",
+    "EmployeeID":"E114",
+    "TaskName":"Design Prototype - Deployment",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0465",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Mobile App Integration - Module B",
+    "PlannedHours":107,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0466",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Mobile App Integration - Phase 2",
+    "PlannedHours":103,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0467",
+    "ProjectID":"P044",
+    "EmployeeID":"E017",
+    "TaskName":"Data Migration - Compliance",
+    "PlannedHours":44,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0468",
+    "ProjectID":"P028",
+    "EmployeeID":"E062",
+    "TaskName":"API Development - Validation",
+    "PlannedHours":51,
+    "ActualHours":46,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0469",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"API Development - Data Prep",
+    "PlannedHours":35,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0470",
+    "ProjectID":"P044",
+    "EmployeeID":"E105",
+    "TaskName":"Design Prototype - Refinement",
+    "PlannedHours":119,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0471",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"CI\/CD Setup - Upgrade",
+    "PlannedHours":137,
+    "ActualHours":99,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0472",
+    "ProjectID":"P061",
+    "EmployeeID":"E113",
+    "TaskName":"KPI Definition - Refinement",
+    "PlannedHours":125,
+    "ActualHours":132,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0473",
+    "ProjectID":"P026",
+    "EmployeeID":"E102",
+    "TaskName":"API Development - Data Prep",
+    "PlannedHours":188,
+    "ActualHours":143,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0474",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Initial Setup",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0475",
+    "ProjectID":"P023",
+    "EmployeeID":"E058",
+    "TaskName":"CI\/CD Setup - Stabilization",
+    "PlannedHours":117,
+    "ActualHours":75,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0476",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"Unit Testing - Phase 2",
+    "PlannedHours":80,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0477",
+    "ProjectID":"P044",
+    "EmployeeID":"E017",
+    "TaskName":"Data Migration - Module A",
+    "PlannedHours":44,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0478",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"KPI Definition - Module C",
+    "PlannedHours":83,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0479",
+    "ProjectID":"P067",
+    "EmployeeID":"E058",
+    "TaskName":"Marketing Launch Prep - Finalization",
+    "PlannedHours":160,
+    "ActualHours":180,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0480",
+    "ProjectID":"P003",
+    "EmployeeID":"E105",
+    "TaskName":"Requirement Gathering - Initial Setup",
+    "PlannedHours":122,
+    "ActualHours":127,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0481",
+    "ProjectID":"P017",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Module B",
+    "PlannedHours":100,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0482",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":133,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0483",
+    "ProjectID":"P058",
+    "EmployeeID":"E114",
+    "TaskName":"Design Prototype - Module B",
+    "PlannedHours":93,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0484",
+    "ProjectID":"P041",
+    "EmployeeID":"E089",
+    "TaskName":"Data Migration - Module C",
+    "PlannedHours":96,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0485",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Unit Testing - Compliance",
+    "PlannedHours":195,
+    "ActualHours":187,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0486",
+    "ProjectID":"P066",
+    "EmployeeID":"E022",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":67,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0487",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Data Prep",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0488",
+    "ProjectID":"P045",
+    "EmployeeID":"E018",
+    "TaskName":"Marketing Launch Prep - Finalization",
+    "PlannedHours":46,
+    "ActualHours":61,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0489",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"KPI Definition - Configuration",
+    "PlannedHours":108,
+    "ActualHours":129,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0490",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"KPI Definition - Refinement",
+    "PlannedHours":104,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0491",
+    "ProjectID":"P002",
+    "EmployeeID":"E078",
+    "TaskName":"Data Migration - Review",
+    "PlannedHours":68,
+    "ActualHours":64,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0492",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Design Prototype - Optimization",
+    "PlannedHours":168,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0493",
+    "ProjectID":"P003",
+    "EmployeeID":"E078",
+    "TaskName":"Mobile App Integration - Compliance",
+    "PlannedHours":47,
+    "ActualHours":43,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0494",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Testing",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0495",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Refinement",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0496",
+    "ProjectID":"P035",
+    "EmployeeID":"E107",
+    "TaskName":"User Acceptance Testing - Validation",
+    "PlannedHours":141,
+    "ActualHours":160,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0497",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Module A",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0498",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"API Development - Configuration",
+    "PlannedHours":190,
+    "ActualHours":132,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0499",
+    "ProjectID":"P046",
+    "EmployeeID":"E025",
+    "TaskName":"Compliance Documentation - Upgrade",
+    "PlannedHours":51,
+    "ActualHours":32,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0500",
+    "ProjectID":"P028",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Stabilization",
+    "PlannedHours":104,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0501",
+    "ProjectID":"P022",
+    "EmployeeID":"E077",
+    "TaskName":"Mobile App Integration - Module B",
+    "PlannedHours":184,
+    "ActualHours":60,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0502",
+    "ProjectID":"P060",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Configuration",
+    "PlannedHours":121,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0503",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Marketing Launch Prep - Finalization",
+    "PlannedHours":40,
+    "ActualHours":17,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0504",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Mobile App Integration - Optimization",
+    "PlannedHours":69,
+    "ActualHours":48,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0505",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Configuration",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0506",
+    "ProjectID":"P015",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Deployment",
+    "PlannedHours":192,
+    "ActualHours":109,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0507",
+    "ProjectID":"P019",
+    "EmployeeID":"E104",
+    "TaskName":"Unit Testing - Deployment",
+    "PlannedHours":131,
+    "ActualHours":121,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0508",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"KPI Definition - Deployment",
+    "PlannedHours":108,
+    "ActualHours":129,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0509",
+    "ProjectID":"P004",
+    "EmployeeID":"E055",
+    "TaskName":"KPI Definition - Phase 2",
+    "PlannedHours":30,
+    "ActualHours":34,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0510",
+    "ProjectID":"P044",
+    "EmployeeID":"E105",
+    "TaskName":"Design Prototype - Optimization",
+    "PlannedHours":119,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0511",
+    "ProjectID":"P066",
+    "EmployeeID":"E022",
+    "TaskName":"Unit Testing - Initial Setup",
+    "PlannedHours":67,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0512",
+    "ProjectID":"P017",
+    "EmployeeID":"E092",
+    "TaskName":"CI\/CD Setup - Phase 2",
+    "PlannedHours":130,
+    "ActualHours":74,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0513",
+    "ProjectID":"P052",
+    "EmployeeID":"E016",
+    "TaskName":"Design Prototype - Refinement",
+    "PlannedHours":34,
+    "ActualHours":16,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0514",
+    "ProjectID":"P072",
+    "EmployeeID":"E024",
+    "TaskName":"Requirement Gathering - Compliance",
+    "PlannedHours":147,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0515",
+    "ProjectID":"P041",
+    "EmployeeID":"E003",
+    "TaskName":"CI\/CD Setup - Deployment",
+    "PlannedHours":168,
+    "ActualHours":131,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0516",
+    "ProjectID":"P028",
+    "EmployeeID":"E062",
+    "TaskName":"API Development - Optimization",
+    "PlannedHours":51,
+    "ActualHours":46,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0517",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"API Development - Testing",
+    "PlannedHours":54,
+    "ActualHours":37,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0518",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"Compliance Documentation - Phase 1",
+    "PlannedHours":152,
+    "ActualHours":199,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0519",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Data Migration - Review",
+    "PlannedHours":183,
+    "ActualHours":232,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0520",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"Design Prototype - Deployment",
+    "PlannedHours":78,
+    "ActualHours":25,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0521",
+    "ProjectID":"P041",
+    "EmployeeID":"E089",
+    "TaskName":"Data Migration - Integration",
+    "PlannedHours":96,
+    "ActualHours":118,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0522",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Security Audit - Optimization",
+    "PlannedHours":142,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0523",
+    "ProjectID":"P058",
+    "EmployeeID":"E095",
+    "TaskName":"Mobile App Integration - Phase 2",
+    "PlannedHours":53,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0524",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"CI\/CD Setup - Stabilization",
+    "PlannedHours":65,
+    "ActualHours":21,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0525",
+    "ProjectID":"P053",
+    "EmployeeID":"E014",
+    "TaskName":"API Development - Optimization",
+    "PlannedHours":171,
+    "ActualHours":125,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0526",
+    "ProjectID":"P023",
+    "EmployeeID":"E023",
+    "TaskName":"API Development - Phase 1",
+    "PlannedHours":115,
+    "ActualHours":55,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0527",
+    "ProjectID":"P004",
+    "EmployeeID":"E107",
+    "TaskName":"API Development - Module A",
+    "PlannedHours":177,
+    "ActualHours":202,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0528",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Enhancement",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0529",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Compliance Documentation - Testing",
+    "PlannedHours":62,
+    "ActualHours":68,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0530",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"API Development - Optimization",
+    "PlannedHours":35,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0531",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Data Migration - Deployment",
+    "PlannedHours":190,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0532",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Mobile App Integration - Module A",
+    "PlannedHours":103,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0533",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"API Development - Stabilization",
+    "PlannedHours":35,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0534",
+    "ProjectID":"P047",
+    "EmployeeID":"E018",
+    "TaskName":"API Development - Enhancement",
+    "PlannedHours":196,
+    "ActualHours":241,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0535",
+    "ProjectID":"P010",
+    "EmployeeID":"E016",
+    "TaskName":"Security Audit - Stabilization",
+    "PlannedHours":106,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0536",
+    "ProjectID":"P060",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Finalization",
+    "PlannedHours":121,
+    "ActualHours":41,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0537",
+    "ProjectID":"P041",
+    "EmployeeID":"E003",
+    "TaskName":"CI\/CD Setup - Initial Setup",
+    "PlannedHours":168,
+    "ActualHours":131,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0538",
+    "ProjectID":"P070",
+    "EmployeeID":"E065",
+    "TaskName":"Security Audit - Configuration",
+    "PlannedHours":120,
+    "ActualHours":59,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0539",
+    "ProjectID":"P014",
+    "EmployeeID":"E087",
+    "TaskName":"Requirement Gathering - Module A",
+    "PlannedHours":75,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0540",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"User Acceptance Testing - Initial Setup",
+    "PlannedHours":34,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0541",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Module A",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0542",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Deployment",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0543",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"CI\/CD Setup - Deployment",
+    "PlannedHours":159,
+    "ActualHours":52,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0544",
+    "ProjectID":"P046",
+    "EmployeeID":"E086",
+    "TaskName":"Data Migration - Finalization",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0545",
+    "ProjectID":"P017",
+    "EmployeeID":"E092",
+    "TaskName":"CI\/CD Setup - Configuration",
+    "PlannedHours":130,
+    "ActualHours":74,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0546",
+    "ProjectID":"P040",
+    "EmployeeID":"E047",
+    "TaskName":"Unit Testing - Stabilization",
+    "PlannedHours":155,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0547",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"Unit Testing - Validation",
+    "PlannedHours":133,
+    "ActualHours":102,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0548",
+    "ProjectID":"P069",
+    "EmployeeID":"E095",
+    "TaskName":"Data Migration - Optimization",
+    "PlannedHours":85,
+    "ActualHours":93,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0549",
+    "ProjectID":"P043",
+    "EmployeeID":"E034",
+    "TaskName":"KPI Definition - Testing",
+    "PlannedHours":42,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0550",
+    "ProjectID":"P037",
+    "EmployeeID":"E058",
+    "TaskName":"Requirement Gathering - Upgrade",
+    "PlannedHours":27,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0551",
+    "ProjectID":"P007",
+    "EmployeeID":"E032",
+    "TaskName":"CI\/CD Setup - Data Prep",
+    "PlannedHours":187,
+    "ActualHours":193,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0552",
+    "ProjectID":"P006",
+    "EmployeeID":"E090",
+    "TaskName":"Compliance Documentation - Refinement",
+    "PlannedHours":38,
+    "ActualHours":8,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0553",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Enhancement",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0554",
+    "ProjectID":"P015",
+    "EmployeeID":"E015",
+    "TaskName":"API Development - Configuration",
+    "PlannedHours":190,
+    "ActualHours":132,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0555",
+    "ProjectID":"P063",
+    "EmployeeID":"E033",
+    "TaskName":"KPI Definition - Phase 1",
+    "PlannedHours":103,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0556",
+    "ProjectID":"P068",
+    "EmployeeID":"E078",
+    "TaskName":"API Development - Module C",
+    "PlannedHours":35,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0557",
+    "ProjectID":"P055",
+    "EmployeeID":"E046",
+    "TaskName":"Marketing Launch Prep - Module A",
+    "PlannedHours":144,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0558",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"User Acceptance Testing - Enhancement",
+    "PlannedHours":101,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0559",
+    "ProjectID":"P036",
+    "EmployeeID":"E098",
+    "TaskName":"Requirement Gathering - Integration",
+    "PlannedHours":163,
+    "ActualHours":101,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0560",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Marketing Launch Prep - Module A",
+    "PlannedHours":144,
+    "ActualHours":141,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0561",
+    "ProjectID":"P003",
+    "EmployeeID":"E078",
+    "TaskName":"Mobile App Integration - Validation",
+    "PlannedHours":47,
+    "ActualHours":43,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0562",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"User Acceptance Testing - Finalization",
+    "PlannedHours":34,
+    "ActualHours":7,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0563",
+    "ProjectID":"P029",
+    "EmployeeID":"E087",
+    "TaskName":"Design Prototype - Module B",
+    "PlannedHours":78,
+    "ActualHours":25,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0564",
+    "ProjectID":"P013",
+    "EmployeeID":"E097",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":69,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0565",
+    "ProjectID":"P060",
+    "EmployeeID":"E086",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":107,
+    "ActualHours":79,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0566",
+    "ProjectID":"P046",
+    "EmployeeID":"E057",
+    "TaskName":"KPI Definition - Configuration",
+    "PlannedHours":198,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0567",
+    "ProjectID":"P023",
+    "EmployeeID":"E090",
+    "TaskName":"Data Migration - Validation",
+    "PlannedHours":86,
+    "ActualHours":86,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0568",
+    "ProjectID":"P054",
+    "EmployeeID":"E017",
+    "TaskName":"CI\/CD Setup - Initial Setup",
+    "PlannedHours":131,
+    "ActualHours":101,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0569",
+    "ProjectID":"P055",
+    "EmployeeID":"E046",
+    "TaskName":"Marketing Launch Prep - Optimization",
+    "PlannedHours":144,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0570",
+    "ProjectID":"P060",
+    "EmployeeID":"E062",
+    "TaskName":"Data Migration - Upgrade",
+    "PlannedHours":167,
+    "ActualHours":75,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0571",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"User Acceptance Testing - Module B",
+    "PlannedHours":100,
+    "ActualHours":92,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0572",
+    "ProjectID":"P028",
+    "EmployeeID":"E097",
+    "TaskName":"CI\/CD Setup - Stabilization",
+    "PlannedHours":104,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0573",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"KPI Definition - Configuration",
+    "PlannedHours":108,
+    "ActualHours":129,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0574",
+    "ProjectID":"P035",
+    "EmployeeID":"E086",
+    "TaskName":"Compliance Documentation - Module B",
+    "PlannedHours":169,
+    "ActualHours":70,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0575",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Security Audit - Testing",
+    "PlannedHours":142,
+    "ActualHours":100,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0576",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"KPI Definition - Stabilization",
+    "PlannedHours":143,
+    "ActualHours":100,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0577",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Module B",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0578",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Phase 2",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0579",
+    "ProjectID":"P018",
+    "EmployeeID":"E030",
+    "TaskName":"KPI Definition - Finalization",
+    "PlannedHours":83,
+    "ActualHours":66,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0580",
+    "ProjectID":"P046",
+    "EmployeeID":"E086",
+    "TaskName":"Data Migration - Refinement",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0581",
+    "ProjectID":"P061",
+    "EmployeeID":"E056",
+    "TaskName":"Marketing Launch Prep - Optimization",
+    "PlannedHours":88,
+    "ActualHours":47,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0582",
+    "ProjectID":"P062",
+    "EmployeeID":"E003",
+    "TaskName":"KPI Definition - Phase 1",
+    "PlannedHours":133,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0583",
+    "ProjectID":"P015",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Optimization",
+    "PlannedHours":192,
+    "ActualHours":109,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0584",
+    "ProjectID":"P014",
+    "EmployeeID":"E055",
+    "TaskName":"Mobile App Integration - Data Prep",
+    "PlannedHours":87,
+    "ActualHours":103,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0585",
+    "ProjectID":"P022",
+    "EmployeeID":"E036",
+    "TaskName":"Security Audit - Initial Setup",
+    "PlannedHours":90,
+    "ActualHours":40,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0586",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Compliance Documentation - Review",
+    "PlannedHours":147,
+    "ActualHours":77,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0587",
+    "ProjectID":"P057",
+    "EmployeeID":"E052",
+    "TaskName":"Security Audit - Validation",
+    "PlannedHours":200,
+    "ActualHours":179,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0588",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"Mobile App Integration - Initial Setup",
+    "PlannedHours":29,
+    "ActualHours":38,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0589",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Optimization",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0590",
+    "ProjectID":"P059",
+    "EmployeeID":"E050",
+    "TaskName":"Security Audit - Optimization",
+    "PlannedHours":26,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0591",
+    "ProjectID":"P046",
+    "EmployeeID":"E086",
+    "TaskName":"Data Migration - Enhancement",
+    "PlannedHours":47,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0592",
+    "ProjectID":"P021",
+    "EmployeeID":"E036",
+    "TaskName":"CI\/CD Setup - Module B",
+    "PlannedHours":94,
+    "ActualHours":76,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0593",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Security Audit - Module A",
+    "PlannedHours":158,
+    "ActualHours":164,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0594",
+    "ProjectID":"P062",
+    "EmployeeID":"E115",
+    "TaskName":"Design Prototype - Deployment",
+    "PlannedHours":185,
+    "ActualHours":81,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0595",
+    "ProjectID":"P034",
+    "EmployeeID":"E099",
+    "TaskName":"Mobile App Integration - Testing",
+    "PlannedHours":143,
+    "ActualHours":132,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0596",
+    "ProjectID":"P071",
+    "EmployeeID":"E077",
+    "TaskName":"Design Prototype - Stabilization",
+    "PlannedHours":54,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0597",
+    "ProjectID":"P013",
+    "EmployeeID":"E024",
+    "TaskName":"Compliance Documentation - Initial Setup",
+    "PlannedHours":121,
+    "ActualHours":56,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0598",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Module B",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0599",
+    "ProjectID":"P039",
+    "EmployeeID":"E074",
+    "TaskName":"KPI Definition - Testing",
+    "PlannedHours":117,
+    "ActualHours":52,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0600",
+    "ProjectID":"P038",
+    "EmployeeID":"E047",
+    "TaskName":"Mobile App Integration - Data Prep",
+    "PlannedHours":69,
+    "ActualHours":48,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0601",
+    "ProjectID":"P048",
+    "EmployeeID":"E014",
+    "TaskName":"Security Audit - Configuration",
+    "PlannedHours":158,
+    "ActualHours":164,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0602",
+    "ProjectID":"P012",
+    "EmployeeID":"E062",
+    "TaskName":"Design Prototype - Stabilization",
+    "PlannedHours":113,
+    "ActualHours":79,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0603",
+    "ProjectID":"P049",
+    "EmployeeID":"E120",
+    "TaskName":"Data Migration - Data Prep",
+    "PlannedHours":85,
+    "ActualHours":51,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0604",
+    "ProjectID":"P035",
+    "EmployeeID":"E074",
+    "TaskName":"Marketing Launch Prep - Deployment",
+    "PlannedHours":132,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0605",
+    "ProjectID":"P011",
+    "EmployeeID":"E047",
+    "TaskName":"KPI Definition - Phase 2",
+    "PlannedHours":197,
+    "ActualHours":129,
+    "TaskStatus":"In Progress",
+    "Priority":"Low"
+  },
+  {
+    "TaskID":"T0606",
+    "ProjectID":"P005",
+    "EmployeeID":"E013",
+    "TaskName":"User Acceptance Testing - Configuration",
+    "PlannedHours":101,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0607",
+    "ProjectID":"P010",
+    "EmployeeID":"E066",
+    "TaskName":"Data Migration - Compliance",
+    "PlannedHours":136,
+    "ActualHours":148,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0608",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"API Development - Integration",
+    "PlannedHours":55,
+    "ActualHours":44,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0609",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Optimization",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0610",
+    "ProjectID":"P058",
+    "EmployeeID":"E095",
+    "TaskName":"Mobile App Integration - Phase 2",
+    "PlannedHours":53,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0611",
+    "ProjectID":"P072",
+    "EmployeeID":"E024",
+    "TaskName":"Requirement Gathering - Refinement",
+    "PlannedHours":147,
+    "ActualHours":65,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0612",
+    "ProjectID":"P002",
+    "EmployeeID":"E101",
+    "TaskName":"Mobile App Integration - Data Prep",
+    "PlannedHours":126,
+    "ActualHours":97,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0613",
+    "ProjectID":"P033",
+    "EmployeeID":"E027",
+    "TaskName":"Marketing Launch Prep - Initial Setup",
+    "PlannedHours":200,
+    "ActualHours":207,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0614",
+    "ProjectID":"P054",
+    "EmployeeID":"E081",
+    "TaskName":"API Development - Phase 2",
+    "PlannedHours":95,
+    "ActualHours":43,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0615",
+    "ProjectID":"P051",
+    "EmployeeID":"E051",
+    "TaskName":"Marketing Launch Prep - Optimization",
+    "PlannedHours":193,
+    "ActualHours":0,
+    "TaskStatus":"Not Started",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0616",
+    "ProjectID":"P047",
+    "EmployeeID":"E026",
+    "TaskName":"Mobile App Integration - Module C",
+    "PlannedHours":36,
+    "ActualHours":42,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0617",
+    "ProjectID":"P056",
+    "EmployeeID":"E034",
+    "TaskName":"Unit Testing - Deployment",
+    "PlannedHours":128,
+    "ActualHours":116,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0618",
+    "ProjectID":"P066",
+    "EmployeeID":"E022",
+    "TaskName":"Unit Testing - Configuration",
+    "PlannedHours":67,
+    "ActualHours":50,
+    "TaskStatus":"Completed",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0619",
+    "ProjectID":"P010",
+    "EmployeeID":"E016",
+    "TaskName":"Security Audit - Module B",
+    "PlannedHours":106,
+    "ActualHours":133,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0620",
+    "ProjectID":"P023",
+    "EmployeeID":"E028",
+    "TaskName":"Compliance Documentation - Configuration",
+    "PlannedHours":70,
+    "ActualHours":78,
+    "TaskStatus":"Completed",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0621",
+    "ProjectID":"P009",
+    "EmployeeID":"E083",
+    "TaskName":"Requirement Gathering - Module A",
+    "PlannedHours":40,
+    "ActualHours":18,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0622",
+    "ProjectID":"P061",
+    "EmployeeID":"E056",
+    "TaskName":"Marketing Launch Prep - Stabilization",
+    "PlannedHours":88,
+    "ActualHours":47,
+    "TaskStatus":"In Progress",
+    "Priority":"High"
+  },
+  {
+    "TaskID":"T0623",
+    "ProjectID":"P025",
+    "EmployeeID":"E087",
+    "TaskName":"Security Audit - Upgrade",
+    "PlannedHours":98,
+    "ActualHours":67,
+    "TaskStatus":"In Progress",
+    "Priority":"Medium"
+  },
+  {
+    "TaskID":"T0624",
+    "ProjectID":"P065",
+    "EmployeeID":"E083",
+    "TaskName":"User Acceptance Testing - Module B",
+    "PlannedHours":110,
+    "ActualHours":106,
+    "TaskStatus":"Completed",
+    "Priority":"Low"
+  }
+]
