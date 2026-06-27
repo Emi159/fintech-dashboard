@@ -77,17 +77,21 @@ function buildColumns(flagMap: Record<string, string>) {
     col.accessor("CompletionPercentage", {
       header: "Progress",
       size: 120,
-      cell: (info) => (
-        <span style={{ display: "flex", alignItems: "center", gap: 8 }}>
-          <span className="progress">
-            <span
-              className="progress__fill"
-              style={{ width: `${info.getValue()}%` }}
-            />
+      cell: (info) => {
+        const pct = info.getValue();
+        const color = pct >= 75 ? "#4ade80" : pct >= 50 ? "#fbbf24" : "#f87171";
+        return (
+          <span style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <span className="progress">
+              <span
+                className="progress__fill"
+                style={{ width: `${pct}%`, background: color }}
+              />
+            </span>
+            <span style={{ color, fontWeight: 500 }}>{pct}%</span>
           </span>
-          {info.getValue()}%
-        </span>
-      ),
+        );
+      },
     }),
     col.accessor("PlannedBudget", {
       header: "Planned Budget",
