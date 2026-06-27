@@ -9,7 +9,7 @@ import Analytics from "./pages/Analytics";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <DashboardProvider>
         <FilterProvider>
           <MainLayout>
