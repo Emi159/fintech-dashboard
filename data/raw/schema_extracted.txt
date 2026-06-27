@@ -1,0 +1,46 @@
+﻿
+============================================================
+FILE: Fintech Projects Dataset.xlsx
+============================================================
+Sheets: ['Milestones', 'Projects', 'Employees', 'Departments', 'Tasks']
+
+--- Sheet: Milestones (rows~None, cols~None) ---
+Headers: ('MilestoneID', 'ProjectID', 'MilestoneName', 'PlannedCompletionDate', 'ActualCompletionDate', 'Status')
+Row 1: ('M0001', 'P001', 'Requirements & Scoping', '26/09/2025', '04/10/2025', 'Completed')
+Row 2: ('M0002', 'P001', 'MVP Ready', '21/11/2025', None, 'On Track')
+Row 3: ('M0003', 'P001', 'Regulatory Approval', '16/01/2026', None, 'On Track')
+
+--- Sheet: Projects (rows~None, cols~None) ---
+Headers: ('ProjectID', 'ProductName', 'DepartmentID', 'ProjectManagerID', 'City', 'Project_Country_Latitude', 'Project_Country_Longitude', 'PlannedStartDate', 'PlannedEndDate', 'ActualStartDate', 'ActualEndDate', 'Status', 'PlannedBudget (EUR)', 'ActualBudget (EUR)', 'RiskLevel', 'CompletionPercentage', 'Project_Country')
+Row 1: ('P001', 'InstantPay', 'D07', 'E087', 'Porto', 41.165435, -8.640928, '01/08/2025', '13/03/2026', '26/08/2025', None, 'In Progress', 351000.0, 219000.0, 'Medium', 67.0, '#VALUE!')
+Row 2: ('P002', 'EuroWallet', 'D04', 'E118', 'Limerick', 52.681575, -8.627052, '30/12/2024', '29/09/2025', '20/12/2024', '08/09/2025', 'Completed', 1379000.0, 1534000.0, 'Low', 100.0, '#VALUE!')
+Row 3: ('P003', 'OpenBank API', 'D04', 'E004', 'Aalborg', 57.036971, 9.921049, '27/07/2024', '07/03/2025', '13/08/2024', '04/03/2025', 'Completed', 2180000.0, 2218000.0, 'Low', 100.0, '#VALUE!')
+
+--- Sheet: Employees (rows~None, cols~None) ---
+Headers: ('EmployeeID', 'FullName', 'DepartmentID', 'Role', 'ExperienceLevel', 'Country', 'City', 'Employee_Country_Latitude', 'Employee_Country_Longitude', 'HourlyRate (EUR/hour)', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None)
+Row 1: ('E001', 'Johan Moretti', 'D03', 'Data Analyst', 'Junior', 'Sweden', 'Stockholm', '59.337159', '18.060046', 27.0)
+Row 2: ('E002', 'Noemi Popescu', 'D03', 'Data Analyst', 'Mid', 'Netherlands', 'Eindhoven', '51.443653', '5.478479', 56.0)
+Row 3: ('E003', 'Sara Dubois', 'D01', 'UX Designer', 'Mid', 'Finland', 'Helsinki', '60.189131', '24.945793', 56.0)
+
+--- Sheet: Departments (rows~None, cols~None) ---
+Headers: ('Department_ID', 'Department_Name', 'Head_Of_Department')
+Row 1: ('D01', 'Product Management', 'Giulia Dumitrescu')
+Row 2: ('D02', 'Engineering', 'Marta Fischer')
+Row 3: ('D03', 'Data & Analytics', 'Sara Bianchi')
+
+--- Sheet: Tasks (rows~None, cols~None) ---
+Headers: ('TaskID', 'ProjectID', 'AssignedTo (EmployeeID)', 'TaskName', 'PlannedHours', 'ActualHours', 'TaskStatus', 'Priority')
+Row 1: ('T0001', 'P001', 'E024', 'API Development - Phase 2', 122.0, 56.0, 'In Progress', 'Medium')
+Row 2: ('T0002', 'P001', 'E033', 'KPI Definition - Optimization', 71.0, 43.0, 'In Progress', 'High')
+Row 3: ('T0003', 'P001', 'E112', 'User Acceptance Testing - Data Prep', 184.0, 211.0, 'Completed', 'High')
+
+============================================================
+FILE: World Flags Dataset Addition.xlsx
+============================================================
+Sheets: ['Banderas']
+
+--- Sheet: Banderas (rows~101, cols~5) ---
+Headers: ('Country', 'Alpha Code', 'Flat Flag', 'Shiny Flag', 'Circle Flag')
+Row 1: ('Argentina', 'AR', 'https://flagsapi.com/AR/flat/64.png', 'https://flagsapi.com/AR/shiny/64.png', 'https://hatscripts.github.io/circle-flags/flags/ar.svg')
+Row 2: ('Bolivia', 'BO', 'https://flagsapi.com/BO/flat/64.png', 'https://flagsapi.com/BO/shiny/64.png', 'https://hatscripts.github.io/circle-flags/flags/bo.svg')
+Row 3: ('Brasil', 'BR', 'https://flagsapi.com/BR/flat/64.png', 'https://flagsapi.com/BR/shiny/64.png', 'https://hatscripts.github.io/circle-flags/flags/br.svg')

@@ -1,0 +1,26 @@
+﻿Quản lý Dự án Fintech
+Thử thách
+Trong thử thách dữ liệu này, bạn sẽ làm việc với bộ dữ liệu Quản lý Dự án từ một công ty Fintech chuyên phát triển và cung cấp các giải pháp thanh toán sáng tạo khắp Châu Âu. Bộ dữ liệu này ghi lại cách các dự án phát triển sản phẩm (như ví điện tử, hệ thống chạm-để-thanh-toán và API thanh toán trực tuyến) được lập kế hoạch, thực hiện và giám sát.
+Dữ liệu bao gồm thông tin về: dự án, nhiệm vụ (tasks), nhân viên, phòng ban và các cột mốc quan trọng (milestones). Qua đó, bộ dữ liệu cho thấy cách thời gian, chi phí và nguồn lực được quản lý trong suốt vòng đời phát triển sản phẩm fintech.
+Mục tiêu của bạn: Phân tích dữ liệu này để tìm ra các thông tin chi tiết (insights) nhằm cải thiện hiệu suất bàn giao dự án, phân bổ nguồn lực và hiệu quả tổng thể trong việc phát triển giải pháp thanh toán.
+Trường hợp sử dụng & Mục tiêu chính
+Các công ty Fintech thường quản lý nhiều dự án cùng lúc, mỗi dự án có mục tiêu, ngân sách và thời hạn khác nhau. Thách thức lớn nhất là hiểu được cách dữ liệu có thể hỗ trợ quản lý các dự án này hiệu quả hơn, đảm bảo sản phẩm thanh toán được bàn giao đúng hạn và trong phạm vi ngân sách.
+Trong thử thách này, bạn sẽ sử dụng bộ dữ liệu để:
+Theo dõi tiến độ dự án, ngân sách và tỷ lệ hoàn thành.
+So sánh giữa số giờ/chi phí dự kiến và thực tế.
+Xác định các phòng ban hoặc khu vực hoạt động hiệu quả nhất.
+Tìm hiểu mức độ kinh nghiệm và mức lương theo giờ ảnh hưởng đến chi phí như thế nào.
+Phát hiện các vấn đề trong quy trình làm việc, chẳng hạn như các tác vụ thường xuyên bị "Tạm dừng" (On Hold) hoặc "Cần xem xét" (Review Required).
+Kết quả phân tích của bạn sẽ hỗ trợ việc lập kế hoạch tốt hơn, quản lý chi phí và tối ưu hóa nguồn lực cho các dự án phát triển sản phẩm fintech.
+Các câu hỏi gợi ý (Tùy chọn)
+Dự án nào đang tiến triển đúng kế hoạch, và dự án nào có nguy cơ chậm trễ hoặc vượt ngân sách?
+Thời gian thực hiện dự án, việc hoàn thành các cột mốc và hiệu suất công việc có mối liên hệ như thế nào với sự thành công?
+Mức lương theo giờ và mức độ kinh nghiệm ảnh hưởng ra sao đến chi phí và tốc độ dự án?
+Có phòng ban hay thành phố nào nhất quán hơn trong việc đáp ứng thời hạn (deadline) không?
+Trạng thái công việc hoặc giai đoạn nào thường xuyên gây ra sự chậm trễ hoặc phải làm lại (rework)?
+Liệu các dữ liệu sớm của dự án có thể giúp dự đoán trước sự chậm trễ hoặc các vấn đề về ngân sách không?
+Nhiệm vụ của bạn
+Sử dụng Power BI, Excel hoặc bất kỳ công cụ phân tích nào khác để:
+Xây dựng mô hình dữ liệu kết nối các bảng dữ liệu với nhau.
+Thiết lập các chỉ số đo lường hiệu suất và các chỉ số KPI.
+Thiết kế bảng điều khiển (Dashboards) làm nổi bật sự thành công của dự án và các cơ hội để cải thiện.

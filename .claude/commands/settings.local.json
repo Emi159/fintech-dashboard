@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/HUONG TRAN/AppData/Local/Programs/Antigravity/resources/app/extensions/chrome-devtools-mcp/**)"
+    ]
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "Country":"Argentina",
+    "Alpha Code":"AR",
+    "Flat Flag":"https:\/\/flagsapi.com\/AR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/AR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ar.svg"
+  },
+  {
+    "Country":"Bolivia",
+    "Alpha Code":"BO",
+    "Flat Flag":"https:\/\/flagsapi.com\/BO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/BO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/bo.svg"
+  },
+  {
+    "Country":"Brasil",
+    "Alpha Code":"BR",
+    "Flat Flag":"https:\/\/flagsapi.com\/BR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/BR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/br.svg"
+  },
+  {
+    "Country":"Canadá",
+    "Alpha Code":"CA",
+    "Flat Flag":"https:\/\/flagsapi.com\/CA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ca.svg"
+  },
+  {
+    "Country":"Chile",
+    "Alpha Code":"CL",
+    "Flat Flag":"https:\/\/flagsapi.com\/CL\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CL\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cl.svg"
+  },
+  {
+    "Country":"Colombia",
+    "Alpha Code":"CO",
+    "Flat Flag":"https:\/\/flagsapi.com\/CO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/co.svg"
+  },
+  {
+    "Country":"Costa Rica",
+    "Alpha Code":"CR",
+    "Flat Flag":"https:\/\/flagsapi.com\/CR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cr.svg"
+  },
+  {
+    "Country":"Cuba",
+    "Alpha Code":"CU",
+    "Flat Flag":"https:\/\/flagsapi.com\/CU\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CU\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cu.svg"
+  },
+  {
+    "Country":"República Dominicana",
+    "Alpha Code":"DO",
+    "Flat Flag":"https:\/\/flagsapi.com\/DO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/DO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/do.svg"
+  },
+  {
+    "Country":"Ecuador",
+    "Alpha Code":"EC",
+    "Flat Flag":"https:\/\/flagsapi.com\/EC\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/EC\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ec.svg"
+  },
+  {
+    "Country":"Guatemala",
+    "Alpha Code":"GT",
+    "Flat Flag":"https:\/\/flagsapi.com\/GT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/GT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/gt.svg"
+  },
+  {
+    "Country":"Honduras",
+    "Alpha Code":"HN",
+    "Flat Flag":"https:\/\/flagsapi.com\/HN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/HN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/hn.svg"
+  },
+  {
+    "Country":"Haití",
+    "Alpha Code":"HT",
+    "Flat Flag":"https:\/\/flagsapi.com\/HT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/HT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ht.svg"
+  },
+  {
+    "Country":"México",
+    "Alpha Code":"MX",
+    "Flat Flag":"https:\/\/flagsapi.com\/MX\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/MX\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/mx.svg"
+  },
+  {
+    "Country":"Nicaragua",
+    "Alpha Code":"NI",
+    "Flat Flag":"https:\/\/flagsapi.com\/NI\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/NI\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ni.svg"
+  },
+  {
+    "Country":"Panamá",
+    "Alpha Code":"PA",
+    "Flat Flag":"https:\/\/flagsapi.com\/PA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pa.svg"
+  },
+  {
+    "Country":"Perú",
+    "Alpha Code":"PE",
+    "Flat Flag":"https:\/\/flagsapi.com\/PE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pe.svg"
+  },
+  {
+    "Country":"Paraguay",
+    "Alpha Code":"PY",
+    "Flat Flag":"https:\/\/flagsapi.com\/PY\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PY\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/py.svg"
+  },
+  {
+    "Country":"El Salvador",
+    "Alpha Code":"SV",
+    "Flat Flag":"https:\/\/flagsapi.com\/SV\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SV\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/sv.svg"
+  },
+  {
+    "Country":"Estados Unidos",
+    "Alpha Code":"US",
+    "Flat Flag":"https:\/\/flagsapi.com\/US\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/US\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/us.svg"
+  },
+  {
+    "Country":"Uruguay",
+    "Alpha Code":"UY",
+    "Flat Flag":"https:\/\/flagsapi.com\/UY\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/UY\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/uy.svg"
+  },
+  {
+    "Country":"Venezuela",
+    "Alpha Code":"VE",
+    "Flat Flag":"https:\/\/flagsapi.com\/VE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/VE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ve.svg"
+  },
+  {
+    "Country":"Austria",
+    "Alpha Code":"AT",
+    "Flat Flag":"https:\/\/flagsapi.com\/AT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/AT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/at.svg"
+  },
+  {
+    "Country":"Bélgica",
+    "Alpha Code":"BE",
+    "Flat Flag":"https:\/\/flagsapi.com\/BE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/BE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/be.svg"
+  },
+  {
+    "Country":"Bulgaria",
+    "Alpha Code":"BG",
+    "Flat Flag":"https:\/\/flagsapi.com\/BG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/BG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/bg.svg"
+  },
+  {
+    "Country":"Suiza",
+    "Alpha Code":"CH",
+    "Flat Flag":"https:\/\/flagsapi.com\/CH\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CH\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ch.svg"
+  },
+  {
+    "Country":"República Checa",
+    "Alpha Code":"CZ",
+    "Flat Flag":"https:\/\/flagsapi.com\/CZ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CZ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cz.svg"
+  },
+  {
+    "Country":"Alemania",
+    "Alpha Code":"DE",
+    "Flat Flag":"https:\/\/flagsapi.com\/DE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/DE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/de.svg"
+  },
+  {
+    "Country":"Dinamarca",
+    "Alpha Code":"DK",
+    "Flat Flag":"https:\/\/flagsapi.com\/DK\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/DK\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/dk.svg"
+  },
+  {
+    "Country":"Estonia",
+    "Alpha Code":"EE",
+    "Flat Flag":"https:\/\/flagsapi.com\/EE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/EE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ee.svg"
+  },
+  {
+    "Country":"España",
+    "Alpha Code":"ES",
+    "Flat Flag":"https:\/\/flagsapi.com\/ES\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/ES\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/es.svg"
+  },
+  {
+    "Country":"Finlandia",
+    "Alpha Code":"FI",
+    "Flat Flag":"https:\/\/flagsapi.com\/FI\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/FI\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/fi.svg"
+  },
+  {
+    "Country":"Francia",
+    "Alpha Code":"FR",
+    "Flat Flag":"https:\/\/flagsapi.com\/FR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/FR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/fr.svg"
+  },
+  {
+    "Country":"Reino Unido",
+    "Alpha Code":"GB",
+    "Flat Flag":"https:\/\/flagsapi.com\/GB\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/GB\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/gb.svg"
+  },
+  {
+    "Country":"Grecia",
+    "Alpha Code":"GR",
+    "Flat Flag":"https:\/\/flagsapi.com\/GR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/GR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/gr.svg"
+  },
+  {
+    "Country":"Croacia",
+    "Alpha Code":"HR",
+    "Flat Flag":"https:\/\/flagsapi.com\/HR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/HR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/hr.svg"
+  },
+  {
+    "Country":"Hungría",
+    "Alpha Code":"HU",
+    "Flat Flag":"https:\/\/flagsapi.com\/HU\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/HU\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/hu.svg"
+  },
+  {
+    "Country":"Irlanda",
+    "Alpha Code":"IE",
+    "Flat Flag":"https:\/\/flagsapi.com\/IE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ie.svg"
+  },
+  {
+    "Country":"Islandia",
+    "Alpha Code":"IS",
+    "Flat Flag":"https:\/\/flagsapi.com\/IS\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IS\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/is.svg"
+  },
+  {
+    "Country":"Italia",
+    "Alpha Code":"IT",
+    "Flat Flag":"https:\/\/flagsapi.com\/IT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/it.svg"
+  },
+  {
+    "Country":"Lituania",
+    "Alpha Code":"LT",
+    "Flat Flag":"https:\/\/flagsapi.com\/LT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/LT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/lt.svg"
+  },
+  {
+    "Country":"Luxemburgo",
+    "Alpha Code":"LU",
+    "Flat Flag":"https:\/\/flagsapi.com\/LU\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/LU\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/lu.svg"
+  },
+  {
+    "Country":"Letonia",
+    "Alpha Code":"LV",
+    "Flat Flag":"https:\/\/flagsapi.com\/LV\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/LV\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/lv.svg"
+  },
+  {
+    "Country":"Países Bajos",
+    "Alpha Code":"NL",
+    "Flat Flag":"https:\/\/flagsapi.com\/NL\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/NL\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/nl.svg"
+  },
+  {
+    "Country":"Noruega",
+    "Alpha Code":"NO",
+    "Flat Flag":"https:\/\/flagsapi.com\/NO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/NO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/no.svg"
+  },
+  {
+    "Country":"Polonia",
+    "Alpha Code":"PL",
+    "Flat Flag":"https:\/\/flagsapi.com\/PL\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PL\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pl.svg"
+  },
+  {
+    "Country":"Portugal",
+    "Alpha Code":"PT",
+    "Flat Flag":"https:\/\/flagsapi.com\/PT\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PT\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pt.svg"
+  },
+  {
+    "Country":"Rumanía",
+    "Alpha Code":"RO",
+    "Flat Flag":"https:\/\/flagsapi.com\/RO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/RO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ro.svg"
+  },
+  {
+    "Country":"Suecia",
+    "Alpha Code":"SE",
+    "Flat Flag":"https:\/\/flagsapi.com\/SE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/se.svg"
+  },
+  {
+    "Country":"Eslovenia",
+    "Alpha Code":"SI",
+    "Flat Flag":"https:\/\/flagsapi.com\/SI\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SI\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/si.svg"
+  },
+  {
+    "Country":"Eslovaquia",
+    "Alpha Code":"SK",
+    "Flat Flag":"https:\/\/flagsapi.com\/SK\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SK\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/sk.svg"
+  },
+  {
+    "Country":"Ucrania",
+    "Alpha Code":"UA",
+    "Flat Flag":"https:\/\/flagsapi.com\/UA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/UA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ua.svg"
+  },
+  {
+    "Country":"Emiratos Árabes Unidos",
+    "Alpha Code":"AE",
+    "Flat Flag":"https:\/\/flagsapi.com\/AE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/AE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ae.svg"
+  },
+  {
+    "Country":"China",
+    "Alpha Code":"CN",
+    "Flat Flag":"https:\/\/flagsapi.com\/CN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cn.svg"
+  },
+  {
+    "Country":"Hong Kong",
+    "Alpha Code":"HK",
+    "Flat Flag":"https:\/\/flagsapi.com\/HK\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/HK\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/hk.svg"
+  },
+  {
+    "Country":"Indonesia",
+    "Alpha Code":"ID",
+    "Flat Flag":"https:\/\/flagsapi.com\/ID\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/ID\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/id.svg"
+  },
+  {
+    "Country":"Israel",
+    "Alpha Code":"IL",
+    "Flat Flag":"https:\/\/flagsapi.com\/IL\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IL\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/il.svg"
+  },
+  {
+    "Country":"India",
+    "Alpha Code":"IN",
+    "Flat Flag":"https:\/\/flagsapi.com\/IN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/in.svg"
+  },
+  {
+    "Country":"Irak",
+    "Alpha Code":"IQ",
+    "Flat Flag":"https:\/\/flagsapi.com\/IQ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IQ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/iq.svg"
+  },
+  {
+    "Country":"Irán",
+    "Alpha Code":"IR",
+    "Flat Flag":"https:\/\/flagsapi.com\/IR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/IR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ir.svg"
+  },
+  {
+    "Country":"Japón",
+    "Alpha Code":"JP",
+    "Flat Flag":"https:\/\/flagsapi.com\/JP\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/JP\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/jp.svg"
+  },
+  {
+    "Country":"Camboya",
+    "Alpha Code":"KH",
+    "Flat Flag":"https:\/\/flagsapi.com\/KH\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/KH\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/kh.svg"
+  },
+  {
+    "Country":"Corea del Sur",
+    "Alpha Code":"KR",
+    "Flat Flag":"https:\/\/flagsapi.com\/KR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/KR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/kr.svg"
+  },
+  {
+    "Country":"Kuwait",
+    "Alpha Code":"KW",
+    "Flat Flag":"https:\/\/flagsapi.com\/KW\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/KW\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/kw.svg"
+  },
+  {
+    "Country":"Líbano",
+    "Alpha Code":"LB",
+    "Flat Flag":"https:\/\/flagsapi.com\/LB\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/LB\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/lb.svg"
+  },
+  {
+    "Country":"Malasia",
+    "Alpha Code":"MY",
+    "Flat Flag":"https:\/\/flagsapi.com\/MY\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/MY\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/my.svg"
+  },
+  {
+    "Country":"Filipinas",
+    "Alpha Code":"PH",
+    "Flat Flag":"https:\/\/flagsapi.com\/PH\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PH\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ph.svg"
+  },
+  {
+    "Country":"Pakistán",
+    "Alpha Code":"PK",
+    "Flat Flag":"https:\/\/flagsapi.com\/PK\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PK\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pk.svg"
+  },
+  {
+    "Country":"Qatar",
+    "Alpha Code":"QA",
+    "Flat Flag":"https:\/\/flagsapi.com\/QA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/QA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/qa.svg"
+  },
+  {
+    "Country":"Arabia Saudita",
+    "Alpha Code":"SA",
+    "Flat Flag":"https:\/\/flagsapi.com\/SA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/sa.svg"
+  },
+  {
+    "Country":"Singapur",
+    "Alpha Code":"SG",
+    "Flat Flag":"https:\/\/flagsapi.com\/SG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/sg.svg"
+  },
+  {
+    "Country":"Tailandia",
+    "Alpha Code":"TH",
+    "Flat Flag":"https:\/\/flagsapi.com\/TH\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/TH\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/th.svg"
+  },
+  {
+    "Country":"Turquía",
+    "Alpha Code":"TR",
+    "Flat Flag":"https:\/\/flagsapi.com\/TR\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/TR\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/tr.svg"
+  },
+  {
+    "Country":"Taiwán",
+    "Alpha Code":"TW",
+    "Flat Flag":"https:\/\/flagsapi.com\/TW\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/TW\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/tw.svg"
+  },
+  {
+    "Country":"Vietnam",
+    "Alpha Code":"VN",
+    "Flat Flag":"https:\/\/flagsapi.com\/VN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/VN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/vn.svg"
+  },
+  {
+    "Country":"Angola",
+    "Alpha Code":"AO",
+    "Flat Flag":"https:\/\/flagsapi.com\/AO\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/AO\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ao.svg"
+  },
+  {
+    "Country":"Burkina Faso",
+    "Alpha Code":"BF",
+    "Flat Flag":"https:\/\/flagsapi.com\/BF\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/BF\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/bf.svg"
+  },
+  {
+    "Country":"Costa de Marfil",
+    "Alpha Code":"CI",
+    "Flat Flag":"https:\/\/flagsapi.com\/CI\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CI\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ci.svg"
+  },
+  {
+    "Country":"Camerún",
+    "Alpha Code":"CM",
+    "Flat Flag":"https:\/\/flagsapi.com\/CM\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/CM\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/cm.svg"
+  },
+  {
+    "Country":"Argelia",
+    "Alpha Code":"DZ",
+    "Flat Flag":"https:\/\/flagsapi.com\/DZ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/DZ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/dz.svg"
+  },
+  {
+    "Country":"Egipto",
+    "Alpha Code":"EG",
+    "Flat Flag":"https:\/\/flagsapi.com\/EG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/EG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/eg.svg"
+  },
+  {
+    "Country":"Etiopía",
+    "Alpha Code":"ET",
+    "Flat Flag":"https:\/\/flagsapi.com\/ET\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/ET\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/et.svg"
+  },
+  {
+    "Country":"Ghana",
+    "Alpha Code":"GH",
+    "Flat Flag":"https:\/\/flagsapi.com\/GH\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/GH\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/gh.svg"
+  },
+  {
+    "Country":"Kenia",
+    "Alpha Code":"KE",
+    "Flat Flag":"https:\/\/flagsapi.com\/KE\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/KE\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ke.svg"
+  },
+  {
+    "Country":"Libia",
+    "Alpha Code":"LY",
+    "Flat Flag":"https:\/\/flagsapi.com\/LY\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/LY\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ly.svg"
+  },
+  {
+    "Country":"Marruecos",
+    "Alpha Code":"MA",
+    "Flat Flag":"https:\/\/flagsapi.com\/MA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/MA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ma.svg"
+  },
+  {
+    "Country":"Mozambique",
+    "Alpha Code":"MZ",
+    "Flat Flag":"https:\/\/flagsapi.com\/MZ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/MZ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/mz.svg"
+  },
+  {
+    "Country":"Nigeria",
+    "Alpha Code":"NG",
+    "Flat Flag":"https:\/\/flagsapi.com\/NG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/NG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ng.svg"
+  },
+  {
+    "Country":"Ruanda",
+    "Alpha Code":"RW",
+    "Flat Flag":"https:\/\/flagsapi.com\/RW\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/RW\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/rw.svg"
+  },
+  {
+    "Country":"Senegal",
+    "Alpha Code":"SN",
+    "Flat Flag":"https:\/\/flagsapi.com\/SN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/SN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/sn.svg"
+  },
+  {
+    "Country":"Túnez",
+    "Alpha Code":"TN",
+    "Flat Flag":"https:\/\/flagsapi.com\/TN\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/TN\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/tn.svg"
+  },
+  {
+    "Country":"Tanzania",
+    "Alpha Code":"TZ",
+    "Flat Flag":"https:\/\/flagsapi.com\/TZ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/TZ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/tz.svg"
+  },
+  {
+    "Country":"Uganda",
+    "Alpha Code":"UG",
+    "Flat Flag":"https:\/\/flagsapi.com\/UG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/UG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ug.svg"
+  },
+  {
+    "Country":"Sudáfrica",
+    "Alpha Code":"ZA",
+    "Flat Flag":"https:\/\/flagsapi.com\/ZA\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/ZA\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/za.svg"
+  },
+  {
+    "Country":"Zimbabue",
+    "Alpha Code":"ZW",
+    "Flat Flag":"https:\/\/flagsapi.com\/ZW\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/ZW\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/zw.svg"
+  },
+  {
+    "Country":"Australia",
+    "Alpha Code":"AU",
+    "Flat Flag":"https:\/\/flagsapi.com\/AU\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/AU\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/au.svg"
+  },
+  {
+    "Country":"Fiyi",
+    "Alpha Code":"FJ",
+    "Flat Flag":"https:\/\/flagsapi.com\/FJ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/FJ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/fj.svg"
+  },
+  {
+    "Country":"Nueva Zelanda",
+    "Alpha Code":"NZ",
+    "Flat Flag":"https:\/\/flagsapi.com\/NZ\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/NZ\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/nz.svg"
+  },
+  {
+    "Country":"Papúa Nueva Guinea",
+    "Alpha Code":"PG",
+    "Flat Flag":"https:\/\/flagsapi.com\/PG\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/PG\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/pg.svg"
+  },
+  {
+    "Country":"Samoa",
+    "Alpha Code":"WS",
+    "Flat Flag":"https:\/\/flagsapi.com\/WS\/flat\/64.png",
+    "Shiny Flag":"https:\/\/flagsapi.com\/WS\/shiny\/64.png",
+    "Circle Flag":"https:\/\/hatscripts.github.io\/circle-flags\/flags\/ws.svg"
+  }
+]

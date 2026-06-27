@@ -1,0 +1,38 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$data = $input | ConvertFrom-Json; $f = $data.tool_input.file_path; if ($f -and (Test-Path $f)) { npx prettier --write \"$f\" --ignore-unknown 2>$null }",
+            "shell": "powershell",
+            "statusMessage": "Formatting...",
+            "timeout": 30
+          },
+          {
+            "type": "command",
+            "command": "$data = $input | ConvertFrom-Json; $f = $data.tool_input.file_path; if ($f -match '\\.(ts|tsx|js|jsx)$') { npm run test:run 2>$null }",
+            "shell": "powershell",
+            "statusMessage": "Running tests...",
+            "timeout": 120
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$data = $input | ConvertFrom-Json; $cmd = $data.tool_input.command; Add-Content -Path \"$env:USERPROFILE\\.claude\\bash-log.txt\" -Value \"$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') $cmd\"",
+            "shell": "powershell",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

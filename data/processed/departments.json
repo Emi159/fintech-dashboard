@@ -1,0 +1,37 @@
+[
+  {
+    "Department_ID":"D01",
+    "Department_Name":"Product Management",
+    "Head_Of_Department":"Giulia Dumitrescu"
+  },
+  {
+    "Department_ID":"D02",
+    "Department_Name":"Engineering",
+    "Head_Of_Department":"Marta Fischer"
+  },
+  {
+    "Department_ID":"D03",
+    "Department_Name":"Data & Analytics",
+    "Head_Of_Department":"Sara Bianchi"
+  },
+  {
+    "Department_ID":"D04",
+    "Department_Name":"Compliance & Risk",
+    "Head_Of_Department":"Kai Weber"
+  },
+  {
+    "Department_ID":"D05",
+    "Department_Name":"Marketing",
+    "Head_Of_Department":"Jean Zieliński"
+  },
+  {
+    "Department_ID":"D06",
+    "Department_Name":"Finance",
+    "Head_Of_Department":"Heidi Nowak"
+  },
+  {
+    "Department_ID":"D07",
+    "Department_Name":"Customer Support",
+    "Head_Of_Department":"Nikos Dumitrescu"
+  }
+]
