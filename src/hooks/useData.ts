@@ -30,10 +30,10 @@ export function useData(): UseDataResult {
     setLoading(true);
 
     Promise.all([
-      fetch("/data/summary.json").then(
+      fetch(`${import.meta.env.BASE_URL}data/summary.json`).then(
         (r) => r.json() as Promise<DashboardSummary>,
       ),
-      fetch("/data/clean/flags.json").then(
+      fetch(`${import.meta.env.BASE_URL}data/clean/flags.json`).then(
         (r) => r.json() as Promise<FlagEntry[]>,
       ),
     ])
